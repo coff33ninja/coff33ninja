@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning CMD/BATCH, POWERSHELL, HTML/web development
 - 💞️ I’m looking to collaborate on my AIO toolbox and web development
 - 📫 How to reach me:
-- Email: admin@dragohn-networking.co.za
+- Email: admin@weboasis.co.za
 - Discord: DRAGOHN#1282
 
 <!---
