@@ -62,20 +62,7 @@ I'm looking to connect with like-minded individuals to enhance my projects and e
 
 ---
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-  <h3 align="center">GitHub Statistics</h3>
-
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coff33ninja&theme=2077" height="200em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coff33ninja&theme=2077" height="200em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coff33ninja&theme=2077" height="200em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coff33ninja&theme=2077" height="200em" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coff33ninja&theme=2077" width="100%" />
-
-  </div>
-</div>
+<div align="center"> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <h3 align="center">GitHub Statistics</h3> <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=coff33ninja&theme=2077" height="200em" alt="General Stats"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coff33ninja&theme=2077" height="200em" alt="Most Used Languages"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coff33ninja&theme=2077" height="200em" alt="Repositories by Language"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=coff33ninja&theme=2077" height="200em" alt="Most Productive Times"/> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=coff33ninja&theme=2077" width="100%" alt="Profile Details"/> </div> </div>
 
 ---
 
