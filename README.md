@@ -20,12 +20,6 @@ I'm a tech enthusiast with a passion for scripting, automation, and simplifying 
 
 ## 🛠 **Tech Stack**  
 
-Certainly! To place the tech stack icons side by side in a more compact format, you can arrange them in a single line without the line breaks. Here’s how you can do it:
-
----
-
-## 🛠 **Tech Stack**  
-
 <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">  
     <a href="https://www.python.org/">
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
