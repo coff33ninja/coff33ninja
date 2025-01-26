@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @coff33ninja  
+# 👋 Hi, I’m coff33ninja  
 
 ---
 
