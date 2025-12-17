@@ -35,7 +35,8 @@
 | [**gemini-fabric-telos-os**](https://github.com/coff33ninja/gemini-fabric-telos-os) | Gemini AI integration |
 | [**MathArt-AI**](https://github.com/coff33ninja/MathArt-AI) | AI-powered mathematical art generation |
 | [**Terminal-Chat-Bot**](https://github.com/coff33ninja/Terminal-Chat-Bot) | Terminal-based AI chatbot |
-| [**AI-discord**](https://github.com/coff33ninja/AI-discord) | Discord AI bot |
+| [**AI-discord**](https://github.com/coff33ninja/AI-discord) | Discord AI bot (Python) |
+| [**Discord-Maid-Bot**](https://github.com/coff33ninja/Discord-Maid-Bot) | Discord bot (Node.js) |
 | [**Just-another-AI-Project**](https://github.com/coff33ninja/Just-another-AI-Project) | AI experiments |
 
 ---
