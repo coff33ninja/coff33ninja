@@ -45,19 +45,46 @@
 
 ## 🖥️ Windows & Automation
 
+### 🎯 Current Focus: System Optimizer
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                        PROJECT EVOLUTION                            │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│   AIO (Batch)          NexTool (Python)        System Optimizer     │
+│   ┌─────────┐          ┌─────────────┐         ┌───────────────┐   │
+│   │  .bat   │ ──────►  │   Python    │ ──────► │  PowerShell   │   │
+│   │ scripts │          │    GUI      │         │   (Current)   │   │
+│   └─────────┘          └─────────────┘         └───────────────┘   │
+│    [Archived]          [Discontinued]            [✨ Active]        │
+│                                                                     │
+│   Years of learning consolidated into one dependency-free script    │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+**Quick Start:**
+```powershell
+irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_ultimate_optimization.ps1" | iex
+```
+
+</div>
+
 | Project | Description |
 |---------|-------------|
-| [**System Optimizer**](https://github.com/coff33ninja/System_Optimizer) | Ultimate Windows 10/11 optimization toolkit (29 options) |
+| [**System Optimizer**](https://github.com/coff33ninja/System_Optimizer) | 🎯 Ultimate Windows 10/11 optimization toolkit (29 options) |
 | [**ssh_terminal_api**](https://github.com/coff33ninja/ssh_terminal_api) | REST API for remote SSH command execution |
 | [**Setup-UV**](https://github.com/coff33ninja/Setup-UV) | Quick UV package manager installer |
 
 <details>
 <summary>📦 Legacy Projects (Click to expand)</summary>
 
-| Project | Status |
-|---------|--------|
-| [NexTool](https://github.com/coff33ninja/NexTool-Windows-Suite) | 🔴 Discontinued → System Optimizer |
-| [AIO](https://github.com/coff33ninja/AIO) | ⚫ Archived → System Optimizer |
+| Project | Status | Notes |
+|---------|--------|-------|
+| [NexTool](https://github.com/coff33ninja/NexTool-Windows-Suite) | 🔴 Discontinued | Python GUI - replaced by System Optimizer |
+| [AIO](https://github.com/coff33ninja/AIO) | ⚫ Archived | Original batch scripts - where it all began |
 
 </details>
 
