@@ -8,13 +8,18 @@ I'm a tech enthusiast with a passion for scripting, automation, and simplifying 
 ---
 
 ## 🌟 **Featured Projects**  
-- [**NexTool**](https://github.com/coff33ninja/NexTool-Windows-Suite): A Python-based GUI tool that streamlines routine tasks for efficiency. 🚀  
-  - Features automation for routine Windows tasks.  
-  - Includes an easy-to-use interface for users of all levels.  
 
-- [**AIO**](https://github.com/coff33ninja/AIO): My first command-line automation suite, where my scripting journey began. 🌱  
-  - Automates common maintenance tasks using batch scripts.  
-  - Lightweight and straightforward for system admins.  
+- [**System Optimizer**](https://github.com/coff33ninja/System_Optimizer): The ultimate Windows 10/11 optimization toolkit. 🚀  
+  - Consolidates all features from AIO and NexTool into a single PowerShell script.  
+  - 29 menu options: telemetry control, service optimization, bloatware removal, and more.  
+  - No dependencies - just run and go!  
+  ```powershell
+  irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_ultimate_optimization.ps1" | iex
+  ```
+
+### Legacy Projects (Discontinued)
+- [**NexTool**](https://github.com/coff33ninja/NexTool-Windows-Suite): ~~Python-based GUI tool~~ → Replaced by System Optimizer  
+- [**AIO**](https://github.com/coff33ninja/AIO): ~~Command-line automation suite~~ → Archived, replaced by System Optimizer  
 
 ---
 
@@ -54,8 +59,8 @@ Born in Klerksdorp, North West, and currently calling the scenic Saldanha, Weste
 👨‍💻 **How It All Began:**  
 My journey into the tech world started at HLT Computers in Saldanha. Typing system maintenance commands soon led to experimenting with command-line scripting, giving birth to [AIO](https://github.com/coff33ninja/AIO).  
 
-🐍 **Evolution to GUI:**  
-From command-line fascination, I transitioned into GUI-based automation, culminating in [NexTool](https://github.com/coff33ninja/NexTool-Windows-Suite), a holistic Python GUI.  
+🐍 **Evolution to GUI & Beyond:**  
+From command-line fascination, I transitioned into GUI-based automation with NexTool. After years of maintaining separate toolkits, I consolidated everything into [System Optimizer](https://github.com/coff33ninja/System_Optimizer) - a single, dependency-free PowerShell script.  
 
 🛠 **DIY Enthusiast:**  
 I’ve embraced DIY solutions for home automation powered by solar and battery to counter frequent "brownouts."  
