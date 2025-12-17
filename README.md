@@ -2,7 +2,7 @@
 
 # Hey there! 👋 I'm coff33ninja
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Windows+Automation+Enthusiast;PowerShell+%7C+Python+%7C+Batch;Building+tools+that+simplify+life;From+South+Africa+%F0%9F%87%BF%F0%9F%87%A6)](https://github.com/coff33ninja)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Windows+Automation+%26+AI+Enthusiast;PowerShell+%7C+Python+%7C+Machine+Learning;Building+tools+that+simplify+life;VRM+Avatars+%7C+Chatbots+%7C+OSINT;From+South+Africa+%F0%9F%87%BF%F0%9F%87%A6)](https://github.com/coff33ninja)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=coff33ninja&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/coff33ninja)
 [![GitHub followers](https://img.shields.io/github/followers/coff33ninja?style=flat-square&color=00d9ff)](https://github.com/coff33ninja?tab=followers)
@@ -11,19 +11,63 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 <div align="center">
 
+### Windows Automation
 [![System Optimizer Card](https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=System_Optimizer&theme=tokyonight&hide_border=true)](https://github.com/coff33ninja/System_Optimizer)
 
-**The ultimate Windows 10/11 optimization toolkit** - 29 menu options, zero dependencies!
-
-```powershell
-irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_ultimate_optimization.ps1" | iex
-```
+### AI & Machine Learning
+[![VRM AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=vrm-ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/coff33ninja/vrm-ai-chatbot)
+[![Robin OSINT](https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=robin&theme=tokyonight&hide_border=true)](https://github.com/coff33ninja/robin)
 
 </div>
+
+---
+
+## 🤖 AI Projects
+
+| Project | Description |
+|---------|-------------|
+| [**vrm-ai-chatbot**](https://github.com/coff33ninja/vrm-ai-chatbot) | 3D VRM avatar AI companion with voice interaction |
+| [**robin**](https://github.com/coff33ninja/robin) | AI-Powered Dark Web OSINT Tool |
+| [**gemini-fabric-telos-os**](https://github.com/coff33ninja/gemini-fabric-telos-os) | Gemini AI integration |
+| [**MathArt-AI**](https://github.com/coff33ninja/MathArt-AI) | AI-powered mathematical art generation |
+| [**Terminal-Chat-Bot**](https://github.com/coff33ninja/Terminal-Chat-Bot) | Terminal-based AI chatbot |
+| [**AI-discord**](https://github.com/coff33ninja/AI-discord) | Discord AI bot |
+| [**Just-another-AI-Project**](https://github.com/coff33ninja/Just-another-AI-Project) | AI experiments |
+
+---
+
+## 🖥️ Windows & Automation
+
+| Project | Description |
+|---------|-------------|
+| [**System Optimizer**](https://github.com/coff33ninja/System_Optimizer) | Ultimate Windows 10/11 optimization toolkit (29 options) |
+| [**ssh_terminal_api**](https://github.com/coff33ninja/ssh_terminal_api) | REST API for remote SSH command execution |
+| [**Setup-UV**](https://github.com/coff33ninja/Setup-UV) | Quick UV package manager installer |
+
+<details>
+<summary>📦 Legacy Projects (Click to expand)</summary>
+
+| Project | Status |
+|---------|--------|
+| [NexTool](https://github.com/coff33ninja/NexTool-Windows-Suite) | 🔴 Discontinued → System Optimizer |
+| [AIO](https://github.com/coff33ninja/AIO) | ⚫ Archived → System Optimizer |
+
+</details>
+
+---
+
+## 🔌 IoT & Hardware
+
+| Project | Description |
+|---------|-------------|
+| [**esp32-home-automation**](https://github.com/coff33ninja/esp32-home-automation) | ESP32 home automation |
+| [**Matrix-Painter**](https://github.com/coff33ninja/Matrix-Painter) | LED matrix display art tool |
+| [**Arduino-Volume-Controller**](https://github.com/coff33ninja/Arduino-Volume-Controller) | Hardware volume control |
+| [**IoT-Inventory-Oracle**](https://github.com/coff33ninja/IoT-Inventory-Oracle) | IoT inventory management |
 
 ---
 
@@ -31,8 +75,8 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 
 <!--START_SECTION:activity-->
 1. 🎉 Created [System Optimizer](https://github.com/coff33ninja/System_Optimizer) - Consolidating AIO & NexTool
-2. 📝 Updated NexTool README with discontinuation notice
-3. 🔧 Working on Windows automation scripts
+2. 🤖 Working on AI chatbots and VRM avatar integration
+3. 🔧 Building Windows automation scripts
 <!--END_SECTION:activity-->
 
 ---
@@ -41,12 +85,27 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 
 <div align="center">
 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+**Languages & Scripting**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**AI & ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+**Tools & Platforms**
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
@@ -59,46 +118,27 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 <img src="https://github-readme-stats.vercel.app/api?username=coff33ninja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=coff33ninja&theme=tokyonight&hide_border=true" height="180em" />
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="200em" />
 
 </div>
-
----
-
-## 🗂️ Project Evolution
-
-```
-AIO (Batch Scripts) ──► NexTool (Python GUI) ──► System Optimizer (PowerShell)
-     [Archived]              [Discontinued]            [Active] ✨
-```
-
-| Project | Status | Description |
-|---------|--------|-------------|
-| [**System Optimizer**](https://github.com/coff33ninja/System_Optimizer) | 🟢 Active | All-in-one Windows optimization - no dependencies |
-| [NexTool](https://github.com/coff33ninja/NexTool-Windows-Suite) | 🔴 Discontinued | Python GUI (replaced by System Optimizer) |
-| [AIO](https://github.com/coff33ninja/AIO) | ⚫ Archived | Original batch scripts |
 
 ---
 
 ## 🌍 About Me
 
-
 🇿🇦 **Location:** Saldanha, Western Cape, South Africa  
-💼 **Journey:** Started at HLT Computers → Command-line scripting → GUI automation → PowerShell mastery  
+💼 **Journey:** HLT Computers → Batch scripts → Python GUI → AI & Automation  
 🔋 **DIY:** Home automation with solar & battery (surviving those brownouts!)  
-📺 **Interests:** Manga/anime enthusiast  
+📺 **Interests:** Manga/anime enthusiast, AI experimentation  
 
 ---
 
-## 🎯 Currently Learning
+## 🎯 Currently Exploring
 
-- Advanced PowerShell techniques
-- Web development (React, Node.js)
-- Home automation & IoT
+- 🤖 Large Language Models & AI agents
+- 🎭 VRM avatars & virtual companions
+- 🏠 IoT & home automation
+- 🌐 Web development (React, Node.js)
 
 ---
 
@@ -106,7 +146,6 @@ AIO (Batch Scripts) ──► NexTool (Python GUI) ──► System Optimizer (P
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-admin%40weboasis.co.za-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@weboasis.co.za)
 [![Discord](https://img.shields.io/badge/Discord-DRAGOHN%231282-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-coff33ninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coff33ninja)
 
