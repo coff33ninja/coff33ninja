@@ -119,7 +119,7 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=coff33ninja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=coff33ninja&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://streak-stats.demolab.com/?user=coff33ninja&theme=tokyonight&hide_border=true" height="180em" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="200em" />
 
