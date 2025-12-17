@@ -13,6 +13,8 @@
 
 ## 🚀 Featured Projects
 
+> ⚠️ **Note:** Not all projects are complete - I work on them when I'm bored or when online friends who actually use them ask for updates. It's a hobby, not a job! 😄
+
 <div align="center">
 
 ### Windows Automation
