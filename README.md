@@ -104,9 +104,9 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Created [System Optimizer](https://github.com/coff33ninja/System_Optimizer) - Consolidating AIO & NexTool
-2. 🤖 Working on AI chatbots and VRM avatar integration
-3. 🔧 Building Windows automation scripts
+1. ❌ Merged PR [#9](undefined) in [coff33ninja/Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot)
+2. ❌ Merged PR [#10](undefined) in [coff33ninja/Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot)
+3. ❌ Merged PR [#11](undefined) in [coff33ninja/Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot)
 <!--END_SECTION:activity-->
 
 ---
