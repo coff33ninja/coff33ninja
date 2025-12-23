@@ -104,9 +104,9 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#25](https://github.com/coff33ninja/Intent-Engine-Discord-Bot/issues/25) in [coff33ninja/Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot)
-2. 🗣 Commented on [#25](https://github.com/coff33ninja/Intent-Engine-Discord-Bot/issues/25#issuecomment-3680665174) in [coff33ninja/Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot)
-3. 🔒 Closed issue [#17](https://github.com/coff33ninja/Intent-Engine-Discord-Bot/issues/17) in [coff33ninja/Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot)
+1. 🚀 Published release [Release v2.0.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v2.0.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+2. 🚀 Published release [Release v1.5.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v1.5.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+3. 🚀 Published release [Release v0.9.0 - Pre-1.0 Development Build](https://github.com/coff33ninja/System_optimizer/releases/tag/v0.9.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
 <!--END_SECTION:activity-->
 
 ---
