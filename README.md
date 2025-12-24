@@ -104,9 +104,9 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Release v2.0.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v2.0.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
-2. 🚀 Published release [Release v1.5.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v1.5.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
-3. 🚀 Published release [Release v0.9.0 - Pre-1.0 Development Build](https://github.com/coff33ninja/System_optimizer/releases/tag/v0.9.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+1. 🚀 Published release [System Optimizer v1.0.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v1.0.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+2. 🚀 Published release [System Optimizer v2.1.0 - Complete Standalone EXE](https://github.com/coff33ninja/System_optimizer/releases/tag/v2.1.0-complete) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+3. 🚀 Published release [Release v2.0.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v2.0.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
 <!--END_SECTION:activity-->
 
 ---
