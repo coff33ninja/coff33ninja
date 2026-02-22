@@ -104,9 +104,9 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/coff33ninja/LANRage/pull/3) in [coff33ninja/LANRage](https://github.com/coff33ninja/LANRage)
-2. 💪 Opened PR [#3](https://github.com/coff33ninja/LANRage/pull/3) in [coff33ninja/LANRage](https://github.com/coff33ninja/LANRage)
-3. 🚀 Published release [Release v2.0.0](https://github.com/coff33ninja/System_optimizer/releases/tag/v2.0.0) in [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+1. 🚀 Published release [LANrage v1.2.5](https://github.com/coff33ninja/LANRage/releases/tag/v1.2.5) in [coff33ninja/LANRage](https://github.com/coff33ninja/LANRage)
+2. 🎉 Merged PR [#7](https://github.com/coff33ninja/LANRage/pull/7) in [coff33ninja/LANRage](https://github.com/coff33ninja/LANRage)
+3. 🎉 Merged PR [#6](https://github.com/coff33ninja/LANRage/pull/6) in [coff33ninja/LANRage](https://github.com/coff33ninja/LANRage)
 <!--END_SECTION:activity-->
 
 ---
