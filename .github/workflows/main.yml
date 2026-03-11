@@ -1,5 +1,8 @@
 name: Update Profile
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 */12 * * *'  # Runs every 12 hours
@@ -40,6 +43,24 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
+      - name: Update README projects
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROJECTS_USER: ${{ github.repository_owner }}
+          PROJECTS_MAX_PER_CATEGORY: 6
+        run: |
+          ./scripts/update_projects.ps1
+
+      - name: Update README recent projects
+        shell: pwsh
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          RECENT_PROJECTS_USER: ${{ github.repository_owner }}
+          RECENT_PROJECTS_COUNT: 10
+        run: |
+          ./scripts/update_recent_projects.ps1
+      
       - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -47,3 +68,16 @@ jobs:
         with:
           COMMIT_MSG: 'chore: Update README with recent activity'
           MAX_LINES: 5
+
+      - name: Commit README updates (if needed)
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "chore: update recent projects"
+          git push
