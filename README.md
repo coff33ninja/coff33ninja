@@ -104,9 +104,9 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.8](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.8) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
-2. 🚀 Published release [v0.1.7](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.7) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
-3. 🚀 Published release [v0.1.6](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.6) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
+1. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
+2. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
+3. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
 <!--END_SECTION:activity-->
 
 ---
