@@ -49,6 +49,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RECENT_PROJECTS_USER: ${{ github.repository_owner }}
           RECENT_PROJECTS_COUNT: 10
+          RECENT_PROJECTS_COLS: 2
         run: |
           ./scripts/update_recent_projects.ps1
       

@@ -6,6 +6,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=520&lines=PowerShell+%7C+Python+%7C+AI+Automation;Building+small+tools+that+simplify+life;VRM+Avatars+%7C+Chatbots+%7C+OSINT;South+Africa+%F0%9F%87%BF%F0%9F%87%A6)](https://github.com/coff33ninja)
 
+<br/>
+<kbd>PowerShell</kbd> <kbd>Python</kbd> <kbd>Go</kbd> <kbd>Kotlin</kbd> <kbd>Flutter</kbd>
+<br/>
+<kbd>Windows Automation</kbd> <kbd>AI Agents</kbd> <kbd>VRM Avatars</kbd> <kbd>OSINT</kbd> <kbd>IoT</kbd>
+<br/>
+
 [![Profile Views](https://komarev.com/ghpvc/?username=coff33ninja&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/coff33ninja)
 [![GitHub followers](https://img.shields.io/github/followers/coff33ninja?style=flat-square&color=00d9ff)](https://github.com/coff33ninja?tab=followers)
 
@@ -18,76 +24,48 @@
 
 </div>
 
----
-
 ## 🧭 Last 10 Repos
 
 > Projects are built as ideas show up, to solve annoyances, or because I hate paying for something I can build (often with help).
+<sub>Auto-sorted by last push; forks/archived excluded.</sub>
+<div align="center">
+<sub>Legend: <kbd>🧠 AI</kbd> <kbd>🎭 Avatar</kbd> <kbd>🕵️ OSINT</kbd> <kbd>🛠 Windows</kbd> <kbd>🔌 IoT</kbd> <kbd>💬 Discord</kbd> <kbd>🌐 Network</kbd> <kbd>🧰 Templates</kbd> <kbd>🌐 Web</kbd> <kbd>📱 Mobile</kbd> <kbd>⚙️ Go</kbd> <kbd>📱 Kotlin</kbd> <kbd>🧪 Experimental</kbd></sub>
+</div>
 
 <!--START_SECTION:recent_projects-->
 <div align="center">
-
-<table>
-  <tr>
-    <td><a href="https://github.com/coff33ninja/OPEN_REMOTE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=OPEN_REMOTE&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/coff33ninja/Intent-Engine-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=Intent-Engine-Discord-Bot&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/coff33ninja/template_lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=template_lab&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/coff33ninja/lumos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=lumos&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/coff33ninja/System_optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=System_optimizer&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/coff33ninja/satellite-hive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=satellite-hive&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/coff33ninja/LANRage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=LANRage&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/coff33ninja/AURA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=AURA&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/coff33ninja/AI-Skill-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=AI-Skill-System&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/coff33ninja/phase2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=phase2&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
-
+<img src="assets/recent-projects.svg" width="100%" alt="Last 10 repos" />
 </div>
 <!--END_SECTION:recent_projects-->
-
----
 
 ## 🖥️ System Optimizer
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                        PROJECT EVOLUTION                            │
-├─────────────────────────────────────────────────────────────────────┤
-│                                                                     │
-│   AIO (Batch)          NexTool (Python)        System Optimizer     │
-│   ┌─────────┐          ┌─────────────┐         ┌───────────────┐   │
-│   │  .bat   │ ──────►  │   Python    │ ──────► │  PowerShell   │   │
-│   │ scripts │          │    GUI      │         │   (Current)   │   │
-│   └─────────┘          └─────────────┘         └───────────────┘   │
-│    [Archived]          [Discontinued]            [✨ Active]        │
-│                                                                     │
-│   Years of learning consolidated into one dependency-free script    │
-└─────────────────────────────────────────────────────────────────────┘
-```
+<table>
+  <tr>
+    <td align="center"><strong><a href="https://github.com/coff33ninja/AIO">AIO</a></strong><br/><sub>Batch scripts</sub></td>
+    <td align="center">→</td>
+    <td align="center"><strong><a href="https://github.com/coff33ninja/NexTool-Windows-Suite">NexTool</a></strong><br/><sub>Python GUI</sub></td>
+    <td align="center">→</td>
+    <td align="center"><strong><a href="https://github.com/coff33ninja/System_Optimizer">System Optimizer</a></strong><br/><sub>PowerShell (current)</sub></td>
+  </tr>
+</table>
 
 **Quick Start**
 ```powershell
-irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_ultimate_optimization.ps1" | iex
+irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_optimization.bat" -OutFile "run_optimization.bat"
+.\run_optimization.bat
 ```
 
 </div>
+
+_Batch launcher is the primary entry point._
 
 **Why it matters**
 - One script, no dependencies, built for Windows 10/11.
 - 29 optimization options with sensible defaults.
 - The culmination of years of Windows automation work.
-
----
 
 ## 🛠️ Stack
 
@@ -120,19 +98,15 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 
 </div>
 
----
+## 📊 Profile Stats
 
-## 📈 GitHub Stats
+<sub>Auto-generated from public repos (forks/archived excluded).</sub>
 
+<!--START_SECTION:profile_stats-->
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=coff33ninja&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-<img src="https://streak-stats.demolab.com/?user=coff33ninja&theme=tokyonight&hide_border=true" height="180em" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="200em" />
-
+<img src="assets/profile-stats.svg" width="100%" alt="Profile stats" />
 </div>
-
----
+<!--END_SECTION:profile_stats-->
 
 ## 📊 Recent Activity
 
@@ -142,16 +116,12 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 3. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
 <!--END_SECTION:activity-->
 
----
-
 ## 🌍 About
 
 - 🇿🇦 **Location:** Saldanha, Western Cape, South Africa
-- 💼 **Journey:** HLT Computers → Batch scripts → Python GUI → AI & Automation
-- 🔋 **DIY:** Home automation with solar & battery
-- 📺 **Interests:** Manga/anime, AI experimentation
-
----
+- 💼 **Journey:** HLT Computers → Batch scripts → Python GUI → AI & Automation → Mobile Apps with/without dedicated servers/API
+- 🔋 **DIY:** Home automation with solar & battery & LED Strips/Matrices
+- 📺 **Interests:** Manga/anime, AI experimentation, Building stuff I dont want to pay for as a service.
 
 ## 📫 Connect
 
@@ -161,8 +131,6 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 [![GitHub](https://img.shields.io/badge/GitHub-coff33ninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coff33ninja)
 
 </div>
-
----
 
 <div align="center">
 
