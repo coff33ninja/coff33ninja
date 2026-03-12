@@ -10,10 +10,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/coff33ninja?style=flat-square&color=00d9ff)](https://github.com/coff33ninja?tab=followers)
 
 <p>
-  <a href="#featured">Featured</a> •
   <a href="#last-10-repos">Last 10 Repos</a> •
   <a href="#system-optimizer">System Optimizer</a> •
-  <a href="#projects">Projects</a> •
   <a href="#stack">Stack</a> •
   <a href="#connect">Connect</a>
 </p>
@@ -22,41 +20,37 @@
 
 ---
 
-## ⚡ Now
-
-- Shipping improvements to **System Optimizer** (dependency-free PowerShell).
-- Prototyping VRM avatar agents with voice interaction.
-- Building practical utilities that reduce daily friction.
-
----
-
-## 🚀 Featured
-
-> ⚠️ **Note:** Most projects are hobby work and updated as time allows.
-
-<div align="center">
-
-[![System Optimizer Card](https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=System_Optimizer&theme=tokyonight&hide_border=true)](https://github.com/coff33ninja/System_Optimizer)
-[![VRM AI Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=vrm-ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/coff33ninja/vrm-ai-chatbot)
-[![Robin OSINT](https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=robin&theme=tokyonight&hide_border=true)](https://github.com/coff33ninja/robin)
-
-</div>
-
----
-
 ## 🧭 Last 10 Repos
 
+> Projects are built as ideas show up, to solve annoyances, or because I hate paying for something I can build (often with help).
+
 <!--START_SECTION:recent_projects-->
-- [OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE) - No description yet. (updated 2026-03-10)
-- [Intent-Engine-Discord-Bot](https://github.com/coff33ninja/Intent-Engine-Discord-Bot) - A powerful AI-enhanced Discord bot with a hybrid NLU brain—rule-based routing, TensorFlow.js classification, and Gemini AI escalation—engineered to run lean on limited hardware while delivering advanced server management. (updated 2026-03-09)
-- [template_lab](https://github.com/coff33ninja/template_lab) - Reusable project skeletons for rapid experiments. I got bored redoing this each time. (updated 2026-03-06)
-- [lumos](https://github.com/coff33ninja/lumos) - LAN-first power control: Wake, shutdown, and manage your network devices without cloud lock-in. Open source Android app + Go agent. (updated 2026-03-02)
-- [System_optimizer](https://github.com/coff33ninja/System_optimizer) - No description yet. (updated 2026-03-02)
-- [satellite-hive](https://github.com/coff33ninja/satellite-hive) - No description yet. (updated 2026-03-01)
-- [LANRage](https://github.com/coff33ninja/LANRage) - If it runs on LAN, it runs on LANrage. (updated 2026-02-27)
-- [AURA](https://github.com/coff33ninja/AURA) - AURA - Embodied AI Avatar with VRM  (updated 2026-02-25)
-- [AI-Skill-System](https://github.com/coff33ninja/AI-Skill-System) - No description yet. (updated 2026-02-21)
-- [phase2](https://github.com/coff33ninja/phase2) - No description yet. (updated 2026-01-28)
+<div align="center">
+
+<table>
+  <tr>
+    <td><a href="https://github.com/coff33ninja/OPEN_REMOTE"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=OPEN_REMOTE&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/coff33ninja/Intent-Engine-Discord-Bot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=Intent-Engine-Discord-Bot&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coff33ninja/template_lab"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=template_lab&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/coff33ninja/lumos"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=lumos&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coff33ninja/System_optimizer"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=System_optimizer&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/coff33ninja/satellite-hive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=satellite-hive&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coff33ninja/LANRage"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=LANRage&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/coff33ninja/AURA"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=AURA&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/coff33ninja/AI-Skill-System"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=AI-Skill-System&theme=tokyonight&hide_border=true" /></a></td>
+    <td><a href="https://github.com/coff33ninja/phase2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=coff33ninja&repo=phase2&theme=tokyonight&hide_border=true" /></a></td>
+  </tr>
+</table>
+
+</div>
 <!--END_SECTION:recent_projects-->
 
 ---
@@ -92,19 +86,6 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/win11_u
 - One script, no dependencies, built for Windows 10/11.
 - 29 optimization options with sensible defaults.
 - The culmination of years of Windows automation work.
-
----
-
-## 🧠 Projects
-
-<details>
-  <summary>How this list is built</summary>
-  Add a line in any repo README like: <code>&lt;!-- PROFILE: category=AI &amp; ML; summary=Short one-liner; status=active --&gt;</code>
-</details>
-
-<!--START_SECTION:projects_auto-->
-- Add a PROFILE line in repo READMEs to show projects here.
-<!--END_SECTION:projects_auto-->
 
 ---
 

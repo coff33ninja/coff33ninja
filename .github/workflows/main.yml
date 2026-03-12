@@ -43,15 +43,6 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      - name: Update README projects
-        shell: pwsh
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          PROJECTS_USER: ${{ github.repository_owner }}
-          PROJECTS_MAX_PER_CATEGORY: 6
-        run: |
-          ./scripts/update_projects.ps1
-
       - name: Update README recent projects
         shell: pwsh
         env:

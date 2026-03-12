@@ -46,26 +46,44 @@ $filtered = $repos | Where-Object {
 
 $top = $filtered | Select-Object -First $Count
 
-$lines = New-Object System.Collections.Generic.List[string]
-foreach ($repo in $top) {
-    $desc = $repo.description
-    if ([string]::IsNullOrWhiteSpace($desc)) {
-        $desc = "No description yet."
-    }
-    $updated = [DateTime]::Parse($repo.pushed_at).ToString("yyyy-MM-dd")
-    $lines.Add("- [$($repo.name)]($($repo.html_url)) - $desc (updated $updated)")
-}
-
-if ($lines.Count -eq 0) {
-    $lines.Add("- No active public repositories found.")
-}
-
 $readme = Get-Content -Raw -Path $ReadmePath
 $newline = if ($readme -match "`r`n") { "`r`n" } else { "`n" }
 
 $blockLines = New-Object System.Collections.Generic.List[string]
 $blockLines.Add("<!--START_SECTION:recent_projects-->")
-$blockLines.AddRange($lines)
+$blockLines.Add("<div align=""center"">")
+$blockLines.Add("")
+$blockLines.Add("<table>")
+
+$cards = New-Object System.Collections.Generic.List[string]
+foreach ($repo in $top) {
+    $cardUrl = "https://github-readme-stats.vercel.app/api/pin/?username=$User&repo=$($repo.name)&theme=tokyonight&hide_border=true"
+    $cards.Add("<a href=""$($repo.html_url)""><img src=""$cardUrl"" /></a>")
+}
+
+if ($cards.Count -eq 0) {
+    $blockLines.Add("  <tr>")
+    $blockLines.Add("    <td>No active public repositories found.</td>")
+    $blockLines.Add("  </tr>")
+} else {
+    $cols = 2
+    for ($i = 0; $i -lt $cards.Count; $i += $cols) {
+        $blockLines.Add("  <tr>")
+        for ($j = 0; $j -lt $cols; $j++) {
+            $index = $i + $j
+            if ($index -lt $cards.Count) {
+                $blockLines.Add("    <td>$($cards[$index])</td>")
+            } else {
+                $blockLines.Add("    <td></td>")
+            }
+        }
+        $blockLines.Add("  </tr>")
+    }
+}
+
+$blockLines.Add("</table>")
+$blockLines.Add("")
+$blockLines.Add("</div>")
 $blockLines.Add("<!--END_SECTION:recent_projects-->")
 $blockText = $blockLines -join $newline
 
