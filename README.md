@@ -111,9 +111,9 @@ _Batch launcher is the primary entry point._
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
-2. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
-3. 🚀 Published release [v0.1.15](https://github.com/coff33ninja/OPEN_REMOTE/releases/tag/v0.1.15) in [coff33ninja/OPEN_REMOTE](https://github.com/coff33ninja/OPEN_REMOTE)
+1. 🚀 Published release [v0.1.15](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE/releases/tag/v0.1.15) in [The-Collective-Of-Caffeine/OPEN_REMOTE](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE)
+2. 🚀 Published release [v0.1.15](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE/releases/tag/v0.1.15) in [The-Collective-Of-Caffeine/OPEN_REMOTE](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE)
+3. 🚀 Published release [v0.1.15](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE/releases/tag/v0.1.15) in [The-Collective-Of-Caffeine/OPEN_REMOTE](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE)
 <!--END_SECTION:activity-->
 
 ## 🌍 About
