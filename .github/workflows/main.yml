@@ -5,7 +5,10 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: write
+  contents: read
+  issues: read
+  pull-requests: read
+  repository-projects: read
 
 on:
   schedule:
