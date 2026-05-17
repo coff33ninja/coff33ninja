@@ -86,3 +86,5 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 
 
+
+<!-- debug: force activity update -->
