@@ -82,3 +82,5 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
+
+<!-- trigger workflow -->
