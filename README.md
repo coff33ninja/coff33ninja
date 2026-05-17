@@ -13,8 +13,6 @@
 > Projects built as ideas show up, to solve annoyances, or because I hate paying for something I can build (often with help).
 
 <sub>Auto-sorted by last push · Forks/archived excluded</sub>
-<br>
-<sub>Legend: <kbd>🧠 AI</kbd> <kbd>🎭 Avatar</kbd> <kbd>🕵️ OSINT</kbd> <kbd>🛠 Windows</kbd> <kbd>🔌 IoT</kbd> <kbd>💬 Discord</kbd> <kbd>🌐 Network</kbd> <kbd>🧰 Templates</kbd> <kbd>🌐 Web</kbd> <kbd>📱 Mobile</kbd> <kbd>⚙️ Go</kbd> <kbd>📱 Kotlin</kbd> <kbd>🧪 Experimental</kbd></sub>
 
 <!--START_SECTION:recent_projects-->
 
@@ -47,17 +45,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 **Why it matters** — One script, no dependencies, built for Windows 10/11. 29 optimization options with sensible defaults. The culmination of years of Windows automation work.
 
-## 🛠️ Stack
 
-<em>Public language usage (from github-readme-stats):</em>
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coff33ninja&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=percentile)](https://github.com/coff33ninja)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=transparent&hide_border=true&langs_count=8)](https://github.com/coff33ninja)
-
-</div>
 
 ## 📊 Recent Activity
 
