@@ -2,15 +2,9 @@
 
 # ☕ coff33ninja
 
-**Windows automation · AI experiments · VRM companions · OSINT tools**
+**Windows automation • AI experiments • VRM companions • OSINT tools**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EA8FF&center=true&vCenter=true&width=520&lines=PowerShell+%7C+Python+%7C+AI+Automation;Building+small+tools+that+simplify+life;VRM+Avatars+%7C+Chatbots+%7C+OSINT;South+Africa+%F0%9F%87%BF%F0%9F%87%A6)](https://github.com/coff33ninja)
-
-<kbd>PowerShell</kbd> <kbd>Python</kbd> <kbd>Go</kbd> <kbd>Kotlin</kbd> <kbd>Flutter</kbd>
-<kbd>Windows Automation</kbd> <kbd>AI Agents</kbd> <kbd>VRM Avatars</kbd> <kbd>OSINT</kbd> <kbd>IoT</kbd>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=coff33ninja&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/coff33ninja)
-[![GitHub followers](https://img.shields.io/github/followers/coff33ninja?style=flat-square&color=00d9ff)](https://github.com/coff33ninja?tab=followers)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6EA8FF&center=true&vCenter=true&width=520&lines=Windows+automation+%7C+AI+experimentation+%7C+VRM+development+%7C+OSINT+tools;Automation+scripts+%7C+AI/ML+projects+%7C+Cross-platform+development;South+Africa+%F0%9F%87%BF%F0%9F%87%A6)](https://github.com/coff33ninja)
 
 </div>
 
