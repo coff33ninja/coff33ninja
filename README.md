@@ -56,8 +56,6 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 <em>Public language usage (from github-readme-stats):</em>
 
-## 📊 Profile Stats
-
 <div align="center">
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=coff33ninja&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&rank_icon=percentile)](https://github.com/coff33ninja)
