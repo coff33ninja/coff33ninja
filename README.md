@@ -19,6 +19,7 @@
 > Projects built as ideas show up, to solve annoyances, or because I hate paying for something I can build (often with help).
 
 <sub>Auto-sorted by last push · Forks/archived excluded</sub>
+<br>
 <sub>Legend: <kbd>🧠 AI</kbd> <kbd>🎭 Avatar</kbd> <kbd>🕵️ OSINT</kbd> <kbd>🛠 Windows</kbd> <kbd>🔌 IoT</kbd> <kbd>💬 Discord</kbd> <kbd>🌐 Network</kbd> <kbd>🧰 Templates</kbd> <kbd>🌐 Web</kbd> <kbd>📱 Mobile</kbd> <kbd>⚙️ Go</kbd> <kbd>📱 Kotlin</kbd> <kbd>🧪 Experimental</kbd></sub>
 
 <!--START_SECTION:recent_projects-->
