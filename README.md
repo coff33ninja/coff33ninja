@@ -84,3 +84,5 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 </div>
 
 <!-- trigger workflow -->
+
+<!-- manual trigger for activity update -->
