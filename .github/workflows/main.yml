@@ -1,22 +1,25 @@
 name: Update Profile
 
+concurrency:
+  group: profile-update
+  cancel-in-progress: true
+
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
   push:
     branches:
       - main
 
 jobs:
-  # Job 1: Generate Snake Animation
   generate-snake:
     runs-on: ubuntu-latest
     timeout-minutes: 10
-    
+
     steps:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
@@ -27,7 +30,7 @@ jobs:
             dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -36,23 +39,20 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  # Job 2: Update Recent Activity
   update-activity:
     runs-on: ubuntu-latest
-    
+
     steps:
       - uses: actions/checkout@v4
-      
+
       - name: Update README recent projects
         shell: pwsh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           RECENT_PROJECTS_USER: ${{ github.repository_owner }}
           RECENT_PROJECTS_COUNT: 10
-          RECENT_PROJECTS_COLS: 2
-        run: |
-          ./scripts/update_recent_projects.ps1
-      
+        run: ./scripts/update_recent_projects.ps1
+
       - name: Update README with recent activity
         uses: jamesgeorge007/github-activity-readme@master
         env:
@@ -61,15 +61,15 @@ jobs:
           COMMIT_MSG: 'chore: Update README with recent activity'
           MAX_LINES: 5
 
-      - name: Commit README updates (if needed)
+      - name: Commit changes
         shell: bash
         run: |
-          if git diff --quiet; then
-            echo "No README changes to commit."
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md
-          git commit -m "chore: update recent projects"
+          git commit -m "chore: update profile assets and README"
           git push
