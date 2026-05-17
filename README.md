@@ -22,6 +22,13 @@
 <sub>Legend: <kbd>🧠 AI</kbd> <kbd>🎭 Avatar</kbd> <kbd>🕵️ OSINT</kbd> <kbd>🛠 Windows</kbd> <kbd>🔌 IoT</kbd> <kbd>💬 Discord</kbd> <kbd>🌐 Network</kbd> <kbd>🧰 Templates</kbd> <kbd>🌐 Web</kbd> <kbd>📱 Mobile</kbd> <kbd>⚙️ Go</kbd> <kbd>📱 Kotlin</kbd> <kbd>🧪 Experimental</kbd></sub>
 
 <!--START_SECTION:recent_projects-->
+
+| # | Project | Description | Language | Updated |
+|---|---------|-------------|----------|---------|
+| 1 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
+| 2 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
+| 3 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
+
 <!--END_SECTION:recent_projects-->
 
 ## 🖥️ System Optimizer
