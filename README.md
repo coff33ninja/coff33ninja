@@ -50,9 +50,17 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.15](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE/releases/tag/v0.1.15) in [The-Collective-Of-Caffeine/OPEN_REMOTE](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE)
-2. 🚀 Published release [v0.1.15](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE/releases/tag/v0.1.15) in [The-Collective-Of-Caffeine/OPEN_REMOTE](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE)
-3. 🚀 Published release [v0.1.15](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE/releases/tag/v0.1.15) in [The-Collective-Of-Caffeine/OPEN_REMOTE](https://github.com/The-Collective-Of-Caffeine/OPEN_REMOTE)
+1. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+2. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+3. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+4. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+5. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+6. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+7. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+8. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+9. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+10. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+
 <!--END_SECTION:activity-->
 
 ## 🌍 About
