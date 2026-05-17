@@ -5,10 +5,7 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: read
-  issues: read
-  pull-requests: read
-  repository-projects: read
+  contents: write
 
 on:
   schedule:
@@ -57,13 +54,12 @@ jobs:
         run: ./scripts/update_recent_projects.ps1
 
       - name: Update README with recent activity
-        uses: jamesgeorge007/github-activity-readme@master
+        shell: pwsh
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          COMMIT_MSG: 'chore: Update README with recent activity'
-          MAX_LINES: 10
-          FILTER_EVENTS: PushEvent,CreateEvent,ReleaseEvent
+          RECENT_PROJECTS_USER: ${{ github.repository_owner }}
+          RECENT_PROJECTS_COUNT: 10
+        run: ./scripts/update_recent_activity.ps1
 
       - name: Commit changes
         shell: bash
