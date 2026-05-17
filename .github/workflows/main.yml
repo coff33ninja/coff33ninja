@@ -61,8 +61,9 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          COMMIT_MSG: 'chore: Update README with recent activity (manual trigger)'
+          COMMIT_MSG: 'chore: Update README with recent activity'
           MAX_LINES: 10
+          FILTER_EVENTS: PushEvent,CreateEvent,ReleaseEvent
 
       - name: Commit changes
         shell: bash
