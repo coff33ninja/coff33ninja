@@ -50,7 +50,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+1. 🚀 Pushed to [coff33ninja/distro-hunter](https://github.com/coff33ninja/distro-hunter)
 2. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
 3. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
 4. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
