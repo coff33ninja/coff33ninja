@@ -52,9 +52,9 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 <!--START_SECTION:activity-->
 1. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
 2. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-3. 🚀 Pushed to [coff33ninja/distro-hunter](https://github.com/coff33ninja/distro-hunter)
-4. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
-5. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+3. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
+4. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
+5. 🚀 Pushed to [coff33ninja/distro-hunter](https://github.com/coff33ninja/distro-hunter)
 6. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
 7. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
 8. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
