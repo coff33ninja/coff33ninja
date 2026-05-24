@@ -18,10 +18,11 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
-| 2 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
-| 3 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
-| 4 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
+| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-24 |
+| 2 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
+| 3 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
+| 4 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
+| 5 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -50,12 +51,12 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-2. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-3. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-4. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-5. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-6. 🌱 Created branch [feat/version-grouped-iso-catalog](https://github.com/coff33ninja/bootimus/tree/feat/version-grouped-iso-catalog) in [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
+1. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+3. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+4. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+5. 🌱 Created branch [main](https://github.com/coff33ninja/ai-skills/tree/main) in [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+6. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
 7. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
 8. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
 9. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
