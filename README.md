@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-24 |
+| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
 | 2 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
 | 3 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
 | 4 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
@@ -55,10 +55,10 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 3. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 4. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-5. 🌱 Created branch [main](https://github.com/coff33ninja/ai-skills/tree/main) in [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-6. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-7. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
-8. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
+5. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+6. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+7. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+8. 🌱 Created branch [main](https://github.com/coff33ninja/ai-skills/tree/main) in [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 9. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
 10. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
 
