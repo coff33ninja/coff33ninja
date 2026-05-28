@@ -18,11 +18,12 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
-| 2 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
-| 3 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
-| 4 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
-| 5 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
+| 1 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-27 |
+| 2 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
+| 3 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
+| 4 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
+| 5 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
+| 6 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -51,16 +52,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-3. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-4. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-5. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+1. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+2. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+3. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+4. 🏷️ Published release [v0.1.0-pre](https://github.com/coff33ninja/ytdlp-desktop/releases/tag/v0.1.0-pre) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+5. 🌱 Created branch [main](https://github.com/coff33ninja/ytdlp-desktop/tree/main) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
 6. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 7. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 8. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-9. 🌱 Created branch [main](https://github.com/coff33ninja/ai-skills/tree/main) in [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-10. 🚀 Pushed to [coff33ninja/bootimus](https://github.com/coff33ninja/bootimus)
+9. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+10. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 
 <!--END_SECTION:activity-->
 
