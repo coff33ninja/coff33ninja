@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-27 |
+| 1 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-28 |
 | 2 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
 | 3 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
 | 4 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
@@ -52,13 +52,13 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+1. 🏷️ Published release [v1.0.1](https://github.com/coff33ninja/ytdlp-desktop/releases/tag/v1.0.1) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
 2. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
 3. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
-4. 🏷️ Published release [v0.1.0-pre](https://github.com/coff33ninja/ytdlp-desktop/releases/tag/v0.1.0-pre) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
-5. 🌱 Created branch [main](https://github.com/coff33ninja/ytdlp-desktop/tree/main) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
-6. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-7. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+4. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+5. 🚀 Pushed to [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+6. 🏷️ Published release [v0.1.0-pre](https://github.com/coff33ninja/ytdlp-desktop/releases/tag/v0.1.0-pre) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
+7. 🌱 Created branch [main](https://github.com/coff33ninja/ytdlp-desktop/tree/main) in [coff33ninja/ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop)
 8. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 9. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 10. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
