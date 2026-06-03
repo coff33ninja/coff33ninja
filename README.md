@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-05-29 |
+| 1 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-06-03 |
 | 2 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-28 |
 | 3 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
 | 4 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
