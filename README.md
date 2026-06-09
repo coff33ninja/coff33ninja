@@ -18,13 +18,14 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-06-04 |
-| 2 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-28 |
-| 3 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
-| 4 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
-| 5 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
-| 6 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
-| 7 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
+| 1 | [wpre](https://github.com/coff33ninja/wpre) | Windows Profile Reconstruction Engine — deterministic multi-stage pipeline for harvesting user data and rebuilding clean local Windows profiles. Single Go binary with embedded PowerShell and Python modules. | Go | 2026-06-09 |
+| 2 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-06-04 |
+| 3 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-28 |
+| 4 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-05-25 |
+| 5 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
+| 6 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
+| 7 | [NexTool-Windows-Suite](https://github.com/coff33ninja/NexTool-Windows-Suite) | A comprehensive all-in-one toolkit designed for Windows enthusiasts, IT professionals, and casual users to optimize, configure, and maintain the Windows environment seamlessly. | Python | 2025-12-17 |
+| 8 | [Setup-UV](https://github.com/coff33ninja/Setup-UV) | A simple Windows batch script to install [uv](https://github.com/astral-sh/uv), a blazing-fast Python package manager and virtual environment manager written in Rust. | Batchfile | 2025-08-17 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -53,14 +54,14 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/boxes](https://github.com/coff33ninja/boxes)
-2. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
-3. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
-4. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
-5. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
-6. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
-7. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
-8. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
+1. 🚀 Pushed to [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+2. 🚀 Pushed to [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+3. 🚀 Pushed to [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+4. 🚀 Pushed to [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+5. 🚀 Pushed to [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+6. 🚀 Pushed to [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+7. 🌱 Created branch [master](https://github.com/coff33ninja/wpre/tree/master) in [coff33ninja/wpre](https://github.com/coff33ninja/wpre)
+8. 🚀 Pushed to [coff33ninja/boxes](https://github.com/coff33ninja/boxes)
 9. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
 10. 🚀 Pushed to [coff33ninja/it-bible](https://github.com/coff33ninja/it-bible)
 
