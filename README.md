@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-16 |
+| 1 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-17 |
 | 2 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
 | 3 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
 | 4 | [router-tracer](https://github.com/coff33ninja/router-tracer) | Multi-hop network topology discovery via browser automation. Traces through nested routers by scraping their web UIs. | TypeScript | 2026-06-14 |
