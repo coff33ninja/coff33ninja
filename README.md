@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-3. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-4. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-5. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-6. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-7. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-8. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-9. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-10. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+1. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+2. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+3. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+4. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+5. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+6. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+7. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+8. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+9. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+10. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
 
 <!--END_SECTION:activity-->
 
