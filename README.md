@@ -18,16 +18,16 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-19 |
-| 2 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
-| 3 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-17 |
-| 4 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
-| 5 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
-| 6 | [wpre](https://github.com/coff33ninja/wpre) | Windows Profile Reconstruction Engine — deterministic multi-stage pipeline for harvesting user data and rebuilding clean local Windows profiles. Single Go binary with embedded PowerShell and Python modules. | Go | 2026-06-09 |
-| 7 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-06-04 |
-| 8 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-28 |
-| 9 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
-| 10 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-03-02 |
+| 1 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
+| 2 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-19 |
+| 3 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
+| 4 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-17 |
+| 5 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
+| 6 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
+| 7 | [wpre](https://github.com/coff33ninja/wpre) | Windows Profile Reconstruction Engine — deterministic multi-stage pipeline for harvesting user data and rebuilding clean local Windows profiles. Single Go binary with embedded PowerShell and Python modules. | Go | 2026-06-09 |
+| 8 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-06-04 |
+| 9 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-05-28 |
+| 10 | [distro-hunter](https://github.com/coff33ninja/distro-hunter) | Distro Hunter - Automated Linux ISO discovery, downloading, and Ventoy synchronization tool for Windows. | Python | 2026-05-17 |
 
 <!--END_SECTION:recent_projects-->
 
