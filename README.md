@@ -18,10 +18,10 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
-| 2 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-19 |
-| 3 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
-| 4 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-17 |
+| 1 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
+| 2 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
+| 3 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-19 |
+| 4 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
 | 5 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
 | 6 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
 | 7 | [wpre](https://github.com/coff33ninja/wpre) | Windows Profile Reconstruction Engine — deterministic multi-stage pipeline for harvesting user data and rebuilding clean local Windows profiles. Single Go binary with embedded PowerShell and Python modules. | Go | 2026-06-09 |
