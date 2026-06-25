@@ -18,9 +18,9 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
-| 2 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
-| 3 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-19 |
+| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-24 |
+| 2 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
+| 3 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
 | 4 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
 | 5 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
 | 6 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
@@ -56,15 +56,15 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🌱 Created branch [feat/community-extensions](https://github.com/coff33ninja/pclink-extensions/tree/feat/community-extensions) in [coff33ninja/pclink-extensions](https://github.com/coff33ninja/pclink-extensions)
-2. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-3. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-4. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-5. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-6. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-7. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-8. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
-9. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
+1. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+3. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+4. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+5. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+6. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+7. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+8. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+9. 🌱 Created branch [feat/community-extensions](https://github.com/coff33ninja/pclink-extensions/tree/feat/community-extensions) in [coff33ninja/pclink-extensions](https://github.com/coff33ninja/pclink-extensions)
 10. 🚀 Pushed to [coff33ninja/aria](https://github.com/coff33ninja/aria)
 
 <!--END_SECTION:activity-->
