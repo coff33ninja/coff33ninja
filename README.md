@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-25 |
+| 1 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
 | 2 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
 | 3 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
 | 4 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
@@ -60,12 +60,12 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 3. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 4. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-5. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+5. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 6. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-7. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
-8. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
-9. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
-10. 🚀 Pushed to [The-Collective-Of-Caffeine/LANRage](https://github.com/The-Collective-Of-Caffeine/LANRage)
+7. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+8. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+9. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+10. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 
 <!--END_SECTION:activity-->
 
