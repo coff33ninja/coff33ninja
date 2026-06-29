@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-06-28 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-06-29 |
 | 2 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
 | 3 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
 | 4 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
