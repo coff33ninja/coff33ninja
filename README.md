@@ -18,16 +18,16 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-06-30 |
-| 2 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
-| 3 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
-| 4 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
-| 5 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
-| 6 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
-| 7 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
-| 8 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
-| 9 | [wpre](https://github.com/coff33ninja/wpre) | Windows Profile Reconstruction Engine — deterministic multi-stage pipeline for harvesting user data and rebuilding clean local Windows profiles. Single Go binary with embedded PowerShell and Python modules. | Go | 2026-06-09 |
-| 10 | [it-bible](https://github.com/coff33ninja/it-bible) | 40 books, 267 warnings of IT suffering. A living collection of user error scenarios and IT support trauma. | HTML | 2026-06-04 |
+| 1 | [go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent) | — | Go | 2026-07-01 |
+| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-06-30 |
+| 3 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
+| 4 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
+| 5 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
+| 6 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
+| 7 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
+| 8 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
+| 9 | [opencode-memory-store](https://github.com/coff33ninja/opencode-memory-store) | — | Python | 2026-06-14 |
+| 10 | [wpre](https://github.com/coff33ninja/wpre) | Windows Profile Reconstruction Engine — deterministic multi-stage pipeline for harvesting user data and rebuilding clean local Windows profiles. Single Go binary with embedded PowerShell and Python modules. | Go | 2026-06-09 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-9. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-10. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+1. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+2. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+3. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+4. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+5. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+6. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+7. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+8. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+9. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+10. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
 
 <!--END_SECTION:activity-->
 
