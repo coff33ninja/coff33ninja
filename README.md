@@ -18,8 +18,8 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent) | — | Go | 2026-07-02 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-06-30 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-02 |
+| 2 | [go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent) | — | Go | 2026-07-02 |
 | 3 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
 | 4 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
 | 5 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-2. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-3. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-4. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-5. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-6. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-7. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-8. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-9. 🏷️ Published release [v0.1.0](https://github.com/coff33ninja/go-desktop-agent/releases/tag/v0.1.0) in [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
-10. 🚀 Pushed to [coff33ninja/go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent)
+1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+9. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+10. 🏷️ Published release [v0.2.28](https://github.com/coff33ninja/go-mcp-computer-use/releases/tag/v0.2.28) in [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 
 <!--END_SECTION:activity-->
 
