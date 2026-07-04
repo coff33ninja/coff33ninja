@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-02 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-03 |
 | 2 | [go-desktop-agent](https://github.com/coff33ninja/go-desktop-agent) | — | Go | 2026-07-02 |
 | 3 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
 | 4 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
@@ -65,7 +65,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 9. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-10. 🏷️ Published release [v0.2.28](https://github.com/coff33ninja/go-mcp-computer-use/releases/tag/v0.2.28) in [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+10. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 
 <!--END_SECTION:activity-->
 
