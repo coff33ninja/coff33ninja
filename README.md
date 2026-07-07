@@ -18,8 +18,8 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-06 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-06 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-06 |
+| 2 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-06 |
 | 3 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
 | 4 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
 | 5 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
-2. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
-3. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
-4. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
+1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 5. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
 6. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
 7. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
 8. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
-9. 🌱 Created branch [master](https://github.com/coff33ninja/kusanagi/tree/master) in [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
-10. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+9. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
+10. 🚀 Pushed to [coff33ninja/kusanagi](https://github.com/coff33ninja/kusanagi)
 
 <!--END_SECTION:activity-->
 
