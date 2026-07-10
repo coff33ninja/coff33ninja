@@ -18,14 +18,14 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
-| 2 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-07-09 |
-| 3 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-07 |
-| 4 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-07 |
-| 5 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
-| 6 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
-| 7 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
-| 8 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-06-22 |
+| 1 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-10 |
+| 2 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
+| 3 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-07-09 |
+| 4 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-07 |
+| 5 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-07 |
+| 6 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
+| 7 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
+| 8 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
 | 9 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
 | 10 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-06-16 |
 
