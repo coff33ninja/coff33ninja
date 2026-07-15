@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-13 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-15 |
 | 2 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
 | 3 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-10 |
 | 4 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
@@ -59,13 +59,13 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-4. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
-5. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
-6. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 7. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
-8. 🚀 Pushed to [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
-9. 🚀 Pushed to [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
-10. 🚀 Pushed to [coff33ninja/System_optimizer](https://github.com/coff33ninja/System_optimizer)
+8. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
+9. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
+10. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
 
 <!--END_SECTION:activity-->
 
