@@ -62,8 +62,8 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-7. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
-8. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
+7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 9. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
 10. 🚀 Pushed to [coff33ninja/FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP)
 
