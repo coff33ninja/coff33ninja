@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-15 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-18 |
 | 2 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
 | 3 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-10 |
 | 4 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
