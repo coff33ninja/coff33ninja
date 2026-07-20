@@ -18,16 +18,16 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-19 |
-| 2 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
-| 3 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-10 |
-| 4 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
-| 5 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-07-09 |
-| 6 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-07 |
-| 7 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
-| 8 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
-| 9 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
-| 10 | [WIRING_FOR_DUMMIES](https://github.com/coff33ninja/WIRING_FOR_DUMMIES) | Plain-English electronics reference: component guides, crash course, and project wiring — with explanations of WHY every wire and part is there, not just where to plug it in. | Python | 2026-06-18 |
+| 1 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-07-20 |
+| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-19 |
+| 3 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
+| 4 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-10 |
+| 5 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
+| 6 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-07-09 |
+| 7 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-07 |
+| 8 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-06-27 |
+| 9 | [ai-skills](https://github.com/coff33ninja/ai-skills) | — | Python | 2026-06-26 |
+| 10 | [tailscale-manager](https://github.com/coff33ninja/tailscale-manager) | Full-featured Tailscale management GUI built with Flet | Python | 2026-06-23 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -56,14 +56,14 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-3. 🌱 Created branch [add-bookmarked-tools](https://github.com/coff33ninja/FckSignups/tree/add-bookmarked-tools) in [coff33ninja/FckSignups](https://github.com/coff33ninja/FckSignups)
-4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+1. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+2. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+4. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+5. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+6. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+7. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+8. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
 9. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 10. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 
