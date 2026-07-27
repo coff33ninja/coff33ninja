@@ -18,12 +18,12 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-22 |
-| 3 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-07-21 |
-| 4 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-07-20 |
-| 5 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
-| 6 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-10 |
+| 1 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
+| 2 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
+| 3 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-22 |
+| 4 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-07-21 |
+| 5 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-07-20 |
+| 6 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
 | 7 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-09 |
 | 8 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-07-09 |
 | 9 | [kusanagi](https://github.com/coff33ninja/kusanagi) | Voice-driven AI agent with computer-use abilities on Windows 11. Zero external dependencies, single ~15MB binary. | Go | 2026-07-07 |
