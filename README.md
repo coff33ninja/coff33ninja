@@ -18,7 +18,7 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-07-27 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-01 |
 | 2 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-07-27 |
 | 3 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
 | 4 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
