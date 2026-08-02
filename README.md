@@ -18,9 +18,9 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-01 |
-| 3 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-07-27 |
+| 1 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-02 |
+| 2 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
+| 3 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-01 |
 | 4 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
 | 5 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
 | 6 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
