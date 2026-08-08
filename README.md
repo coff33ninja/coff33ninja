@@ -18,16 +18,16 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-03 |
-| 3 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-03 |
-| 4 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
-| 5 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
-| 6 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
-| 7 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
-| 8 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-07-21 |
-| 9 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
-| 10 | [System_optimizer](https://github.com/coff33ninja/System_optimizer) | — | PowerShell | 2026-07-09 |
+| 1 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
+| 2 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
+| 3 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-03 |
+| 4 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-03 |
+| 5 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
+| 6 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
+| 7 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
+| 8 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
+| 9 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-07-21 |
+| 10 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/ytzero](https://github.com/coff33ninja/ytzero)
-2. 🚀 Pushed to [coff33ninja/JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM)
-3. 🚀 Pushed to [coff33ninja/JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM)
-4. 🚀 Pushed to [coff33ninja/fable-os](https://github.com/coff33ninja/fable-os)
-5. 🚀 Pushed to [coff33ninja/fable-os](https://github.com/coff33ninja/fable-os)
-6. 🚀 Pushed to [coff33ninja/NO_OS](https://github.com/coff33ninja/NO_OS)
-7. 🚀 Pushed to [coff33ninja/NO_OS](https://github.com/coff33ninja/NO_OS)
-8. 🚀 Pushed to [coff33ninja/NO_OS](https://github.com/coff33ninja/NO_OS)
-9. 🚀 Pushed to [coff33ninja/NO_OS](https://github.com/coff33ninja/NO_OS)
-10. 🚀 Pushed to [coff33ninja/NO_OS](https://github.com/coff33ninja/NO_OS)
+1. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+2. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+3. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+4. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+5. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+6. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+7. 🌱 Created branch [main](https://github.com/coff33ninja/mcp-system-cleanup/tree/main) in [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+8. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+9. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+10. 🚀 Pushed to [coff33ninja/ytzero](https://github.com/coff33ninja/ytzero)
 
 <!--END_SECTION:activity-->
 
