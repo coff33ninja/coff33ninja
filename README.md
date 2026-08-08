@@ -18,9 +18,9 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
-| 2 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
-| 3 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-03 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-08 |
+| 2 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
+| 3 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
 | 4 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-03 |
 | 5 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
 | 6 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
