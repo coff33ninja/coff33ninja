@@ -18,16 +18,16 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-08 |
-| 2 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
-| 3 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
-| 4 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-03 |
-| 5 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
-| 6 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
-| 7 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
-| 8 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
-| 9 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-07-21 |
-| 10 | [ytdlp-desktop](https://github.com/coff33ninja/ytdlp-desktop) | Native Windows desktop GUI for yt-dlp. Download YouTube/video URLs with format selection, probe available qualities, presets, history, and a compact floating widget. Single static EXE, no Python runtime. | Go | 2026-07-10 |
+| 1 | [DJ-TECH](https://github.com/coff33ninja/DJ-TECH) | Repair shop management system — job cards, inventory, invoicing, WhatsApp and email | TypeScript | 2026-08-09 |
+| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-08 |
+| 3 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
+| 4 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
+| 5 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-03 |
+| 6 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
+| 7 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
+| 8 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
+| 9 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
+| 10 | [parcel_tracker](https://github.com/coff33ninja/parcel_tracker) | South African parcel tracking desktop widget with route intelligence and auto-refresh | Python | 2026-07-21 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-2. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-3. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-4. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-5. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-6. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-7. 🌱 Created branch [main](https://github.com/coff33ninja/mcp-system-cleanup/tree/main) in [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-8. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+1. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+2. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+3. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+4. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+5. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+6. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+7. 🏷️ Published release [v1.0.0](https://github.com/coff33ninja/DJ-TECH/releases/tag/v1.0.0) in [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+8. 🌱 Created branch [main](https://github.com/coff33ninja/DJ-TECH/tree/main) in [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 9. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-10. 🚀 Pushed to [coff33ninja/ytzero](https://github.com/coff33ninja/ytzero)
+10. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
 
 <!--END_SECTION:activity-->
 
