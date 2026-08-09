@@ -18,8 +18,8 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [DJ-TECH](https://github.com/coff33ninja/DJ-TECH) | Repair shop management system — job cards, inventory, invoicing, WhatsApp and email | TypeScript | 2026-08-09 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-08 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-09 |
+| 2 | [DJ-TECH](https://github.com/coff33ninja/DJ-TECH) | Repair shop management system — job cards, inventory, invoicing, WhatsApp and email | TypeScript | 2026-08-09 |
 | 3 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
 | 4 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
 | 5 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-03 |
@@ -56,16 +56,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-2. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 3. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 4. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 5. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 6. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-7. 🏷️ Published release [v1.0.0](https://github.com/coff33ninja/DJ-TECH/releases/tag/v1.0.0) in [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-8. 🌱 Created branch [main](https://github.com/coff33ninja/DJ-TECH/tree/main) in [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-9. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
-10. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+8. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+9. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+10. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 
 <!--END_SECTION:activity-->
 
