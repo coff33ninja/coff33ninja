@@ -117,6 +117,15 @@ jobs:
           GITHUB_API: https://api.github.com/graphql
         run: deno run --allow-net --allow-env --allow-read --allow-write ./scripts/render_trophy.ts ${{ github.repository_owner }} ./dist/trophy.svg onedark
 
+      - name: Generate pin cards for top repos
+        shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: node ./scripts/generate_top_pin_cards.mjs
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -128,6 +137,7 @@ jobs:
   update-activity:
     runs-on: ubuntu-latest
     timeout-minutes: 10
+    needs: generate-profile-assets
 
     steps:
       - uses: actions/checkout@v4

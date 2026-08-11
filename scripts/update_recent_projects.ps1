@@ -38,54 +38,22 @@ $filtered = $repos | Where-Object {
 $top = $filtered | Select-Object -First $Count
 $readme = Get-Content -Raw -Path $ReadmePath
 
+$profileRepo = if ($excludeName) { $excludeName } else { $User }
+$rawBase = "https://raw.githubusercontent.com/$User/$profileRepo/output"
+
 $lines = New-Object System.Collections.Generic.List[string]
 $lines.Add("<!--START_SECTION:recent_projects-->")
-$lines.Add('<table role="table">')
-$lines.Add('<tbody>')
+$lines.Add('<div align="center">')
+$lines.Add('')
 
-$cards = New-Object System.Collections.Generic.List[object]
 foreach ($repo in $top) {
-    $desc = $repo.description
-    if ([string]::IsNullOrWhiteSpace($desc)) { $desc = "—" }
-    $desc = $desc.Replace('&', '&amp;').Replace('<', '&lt;').Replace('>', '&gt;')
-    $lang = $repo.language
-    if ([string]::IsNullOrWhiteSpace($lang)) {
-        try {
-            $langs = Invoke-RestMethod -Uri "https://api.github.com/repos/$User/$($repo.name)/languages" -Headers $headers -Method Get
-            if ($langs.PSObject.Properties.Count -gt 0) {
-                $lang = ($langs.PSObject.Properties | Sort-Object Value -Descending | Select-Object -First 1).Name
-            }
-        }
-        catch { }
-    }
-    if ([string]::IsNullOrWhiteSpace($lang)) { $lang = "—" }
-    $updated = [DateTimeOffset]::Parse($repo.pushed_at).ToString("yyyy-MM-dd", [CultureInfo]::InvariantCulture)
     $repoName = $repo.name
     $repoUrl = $repo.html_url
-
-    $cardLines = New-Object System.Collections.Generic.List[string]
-    $cardLines.Add('<td align="center" width="300">')
-    $cardLines.Add('<a href="' + $repoUrl + '">')
-    $cardLines.Add('<b>' + $repoName + '</b>')
-    $cardLines.Add('</a>')
-    $cardLines.Add('<br>')
-    $cardLines.Add('<sub>' + $desc + '</sub>')
-    $cardLines.Add('<br>')
-    $cardLines.Add('<sub><code>' + $lang + '</code> · ' + $updated + '</sub>')
-    $cardLines.Add('</td>')
-
-    $cards.Add(($cardLines -join "`n"))
+    $lines.Add("[![$repoName]($rawBase/pin-$repoName.svg)]($repoUrl)")
 }
 
-for ($i = 0; $i -lt $cards.Count; $i += 2) {
-    $lines.Add('<tr>')
-    $lines.Add($cards[$i])
-    if ($i + 1 -lt $cards.Count) { $lines.Add($cards[$i + 1]) }
-    $lines.Add('</tr>')
-}
-
-$lines.Add('</tbody>')
-$lines.Add('</table>')
+$lines.Add('')
+$lines.Add('</div>')
 $lines.Add("<!--END_SECTION:recent_projects-->")
 
 $blockText = $lines -join "`r`n"
