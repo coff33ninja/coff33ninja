@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ☕ coff33ninja
@@ -99,10 +100,12 @@
 | 🟨 Current | [System Optimizer](https://github.com/coff33ninja/System_Optimizer) | PowerShell |
 
 **Quick start**
+---
 ```powershell
 irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_optimization.bat" -OutFile "run_optimization.bat"
 .\run_optimization.bat
 ```
+---
 
 </div>
 
@@ -169,7 +172,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 [![YouTube](https://img.shields.io/badge/YouTube-coff33ninja-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@coff33ninja)
 [![GitHub](https://img.shields.io/badge/GitHub-coff33ninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coff33ninja)
-[![Site](https://img.shields.io/badge/Site-coff33ninja.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://coff33ninja.github.io/)
+[![Site](https://img.shields.io/badge/Site-coff33ninja.github.io-181717?style=for-the-badge&logo=githubpages&logoColor=white)](https://coff33ninja.github.io/coff33ninja/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DJ%20Kruger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dj-kruger-5825aa228/)
 
 </div>
@@ -181,6 +184,8 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ![Snake animation](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/github-contribution-grid-snake-dark.svg)
 
 ⭐ **If you find my projects helpful, consider giving them a star!**
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/V1R824VMV5)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
