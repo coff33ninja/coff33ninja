@@ -90,29 +90,9 @@
 
 <div align="center">
 
-<table>
-<tbody>
-<tr>
-<td align="center" width="250">
-<a href="https://github.com/coff33ninja/AIO"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-AIO.svg" width="230" alt="AIO"></a>
-<br>
-<sub><b>1st Gen</b> · Batch</sub>
-</td>
-<td align="center" width="40">→</td>
-<td align="center" width="250">
-<a href="https://github.com/coff33ninja/NexTool-Windows-Suite"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-NexTool-Windows-Suite.svg" width="230" alt="NexTool"></a>
-<br>
-<sub><b>2nd Gen</b> · Python</sub>
-</td>
-<td align="center" width="40">→</td>
-<td align="center" width="250">
-<a href="https://github.com/coff33ninja/System_optimizer"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-System_optimizer.svg" width="230" alt="System Optimizer"></a>
-<br>
-<sub><b>Current</b> · PowerShell</sub>
-</td>
-</tr>
-</tbody>
-</table>
+<a href="https://github.com/coff33ninja/AIO"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-AIO.svg" width="230" alt="AIO"></a> → <a href="https://github.com/coff33ninja/NexTool-Windows-Suite"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-NexTool-Windows-Suite.svg" width="230" alt="NexTool"></a> → <a href="https://github.com/coff33ninja/System_optimizer"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-System_optimizer.svg" width="230" alt="System Optimizer"></a>
+
+<sub><b>1st Gen</b> · Batch</sub> &nbsp;→&nbsp; <sub><b>2nd Gen</b> · Python</sub> &nbsp;→&nbsp; <sub><b>Current</b> · PowerShell</sub>
 
 **Quick start**
 ```powershell
