@@ -83,6 +83,22 @@ jobs:
           path: dist/pin-mcp-system-cleanup.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate pin card - JARVIS_SYSTEM
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=JARVIS_SYSTEM&theme=github_dark&hide_border=true
+          path: dist/pin-JARVIS_SYSTEM.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - My_Cam
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=My_Cam&theme=github_dark&hide_border=true
+          path: dist/pin-My_Cam.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Setup Deno
         uses: denoland/setup-deno@v2
         with:

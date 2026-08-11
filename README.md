@@ -87,6 +87,13 @@
 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | Iron-Man-style control: hand/face tracking (MediaPipe), transparent HUD, voice, gesture "throw/catch" file transfer | Python |
 | [My_Cam](https://github.com/coff33ninja/My_Cam) | Wireless camera bridge — Android phone streams its camera to Windows as a virtual camera | Go / C++ / Kotlin |
 
+<div align="center">
+
+[![JARVIS_SYSTEM](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JARVIS_SYSTEM.svg)](https://github.com/coff33ninja/JARVIS_SYSTEM)
+[![My_Cam](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-My_Cam.svg)](https://github.com/coff33ninja/My_Cam)
+
+</div>
+
 **How it fits together** — go-mcp-computer-use works alongside My_Cam to give the system hands on the desktop (mouse, keyboard, OCR, window control). It can see, hear, and act.
 
 ## 🖥️ System Optimizer
