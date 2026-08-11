@@ -45,16 +45,16 @@
 
 | # | Project | Description | Language | Updated |
 |---|---------|-------------|----------|---------|
-| 1 | [coff33ninja.github.io](https://github.com/coff33ninja/coff33ninja.github.io) | Personal site — temp Jekyll until the proper build | Ruby | 2026-08-11 |
-| 2 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-10 |
-| 3 | [DJ-TECH](https://github.com/coff33ninja/DJ-TECH) | Repair shop management system — job cards, inventory, invoicing, WhatsApp and email | TypeScript | 2026-08-10 |
-| 4 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-10 |
-| 5 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
-| 6 | [My_Cam](https://github.com/coff33ninja/My_Cam) | — | C++ | 2026-08-08 |
-| 7 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
-| 8 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
-| 9 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
-| 10 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
+| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-10 |
+| 2 | [DJ-TECH](https://github.com/coff33ninja/DJ-TECH) | Repair shop management system — job cards, inventory, invoicing, WhatsApp and email | TypeScript | 2026-08-10 |
+| 3 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-10 |
+| 4 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
+| 5 | [My_Cam](https://github.com/coff33ninja/My_Cam) | — | C++ | 2026-08-08 |
+| 6 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
+| 7 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
+| 8 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
+| 9 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
+| 10 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
 
 <!--END_SECTION:recent_projects-->
 
@@ -141,15 +141,14 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 <!--START_SECTION:activity-->
 1. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
-2. 🚀 Pushed to [coff33ninja/coff33ninja.github.io](https://github.com/coff33ninja/coff33ninja.github.io)
-3. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
-4. 🌱 Created branch [main](https://github.com/coff33ninja/coff33ninja.github.io/tree/main) in [coff33ninja/coff33ninja.github.io](https://github.com/coff33ninja/coff33ninja.github.io)
-5. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
+2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+3. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+5. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 7. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 9. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-10. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 
 <!--END_SECTION:activity-->
 
