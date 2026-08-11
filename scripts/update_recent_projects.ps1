@@ -40,10 +40,10 @@ $readme = Get-Content -Raw -Path $ReadmePath
 
 $lines = New-Object System.Collections.Generic.List[string]
 $lines.Add("<!--START_SECTION:recent_projects-->")
-$lines.Add("")
-$lines.Add('<div align="center">')
-$lines.Add('<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin-top:1rem; margin-bottom:1rem;">')
+$lines.Add('<table role="table">')
+$lines.Add('<tbody>')
 
+$cards = New-Object System.Collections.Generic.List[object]
 foreach ($repo in $top) {
     $desc = $repo.description
     if ([string]::IsNullOrWhiteSpace($desc)) { $desc = "—" }
@@ -63,18 +63,29 @@ foreach ($repo in $top) {
     $repoName = $repo.name
     $repoUrl = $repo.html_url
 
-    $lines.Add('<a href="' + $repoUrl + '" style="text-decoration:none; color:inherit;">')
-    $lines.Add('  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">')
-    $lines.Add('    <h3 style="margin:0 0 10px 0; font-size:1rem;">' + $repoName + '</h3>')
-    $lines.Add('    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">' + $desc + '</p>')
-    $lines.Add('    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>' + $lang + '</span><span>' + $updated + '</span></div>')
-    $lines.Add('  </div>')
-    $lines.Add('</a>')
+    $cardLines = New-Object System.Collections.Generic.List[string]
+    $cardLines.Add('<td align="center" width="300">')
+    $cardLines.Add('<a href="' + $repoUrl + '">')
+    $cardLines.Add('<b>' + $repoName + '</b>')
+    $cardLines.Add('</a>')
+    $cardLines.Add('<br>')
+    $cardLines.Add('<sub>' + $desc + '</sub>')
+    $cardLines.Add('<br>')
+    $cardLines.Add('<sub><code>' + $lang + '</code> · ' + $updated + '</sub>')
+    $cardLines.Add('</td>')
+
+    $cards.Add(($cardLines -join "`n"))
 }
 
-$lines.Add('</div>')
-$lines.Add('</div>')
-$lines.Add("")
+for ($i = 0; $i -lt $cards.Count; $i += 2) {
+    $lines.Add('<tr>')
+    $lines.Add($cards[$i])
+    if ($i + 1 -lt $cards.Count) { $lines.Add($cards[$i + 1]) }
+    $lines.Add('</tr>')
+}
+
+$lines.Add('</tbody>')
+$lines.Add('</table>')
 $lines.Add("<!--END_SECTION:recent_projects-->")
 
 $blockText = $lines -join "`r`n"
