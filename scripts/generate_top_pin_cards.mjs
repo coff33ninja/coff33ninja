@@ -12,6 +12,10 @@ const CORE_PACKAGE_NAME = "@stats-organization/github-readme-stats-core";
 const owner = process.env.GITHUB_REPOSITORY_OWNER || "coff33ninja";
 const token = process.env.GITHUB_TOKEN || "";
 const count = 10;
+const extraRepos = (process.env.EXTRA_REPOS || "")
+  .split(",")
+  .map((s) => s.trim())
+  .filter((s) => s.length > 0);
 
 const headers = {
   "User-Agent": "readme-bot",
@@ -31,6 +35,12 @@ const filtered = repos.filter(
 );
 const top = filtered.slice(0, count);
 
+const targets = [];
+for (const repo of top) targets.push(repo.name);
+for (const extra of extraRepos) {
+  if (!targets.includes(extra)) targets.push(extra);
+}
+
 const installDir = await mkdtemp(path.join(os.tmpdir(), "grs-core-"));
 await writeFile(
   path.join(installDir, "package.json"),
@@ -48,19 +58,19 @@ const core = await import(
 );
 
 await mkdir("dist", { recursive: true });
-for (const repo of top) {
+for (const repoName of targets) {
   const result = await core.pin({
     username: owner,
-    repo: repo.name,
+    repo: repoName,
     theme: "github_dark",
     hide_border: "true",
   });
   const svg = result?.content;
   if (!svg) {
-    console.error(`empty pin card for ${repo.name}`);
+    console.error(`empty pin card for ${repoName}`);
     continue;
   }
-  await writeFile(`dist/pin-${repo.name}.svg`, svg, "utf8");
-  console.log(`wrote dist/pin-${repo.name}.svg`);
+  await writeFile(`dist/pin-${repoName}.svg`, svg, "utf8");
+  console.log(`wrote dist/pin-${repoName}.svg`);
 }
-console.log(`wrote ${top.length} pin cards`);
+console.log(`wrote ${targets.length} pin cards`);

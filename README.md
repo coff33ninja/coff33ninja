@@ -86,30 +86,33 @@
 
 ## 🖥️ System Optimizer
 
+> The evolution of my Windows optimization work — from batch scripts to a real PowerShell tool.
+
 <div align="center">
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin-top:1rem; margin-bottom:1rem;">
-<a href="https://github.com/coff33ninja/AIO" style="text-decoration:none; color:inherit;">
-  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
-    <div style="margin:0 0 8px 0; font-size:0.8rem; color:#6EA8FF;">🟦 1st Gen</div>
-    <h3 style="margin:0 0 10px 0; font-size:1rem;">AIO</h3>
-    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Batch scripts</span><span>Legacy</span></div>
-  </div>
-</a>
-<a href="https://github.com/coff33ninja/NexTool-Windows-Suite" style="text-decoration:none; color:inherit;">
-  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
-    <div style="margin:0 0 8px 0; font-size:0.8rem; color:#6EA8FF;">🟩 2nd Gen</div>
-    <h3 style="margin:0 0 10px 0; font-size:1rem;">NexTool</h3>
-    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Python GUI</span><span>Upgrade</span></div>
-  </div>
-</a>
-<a href="https://github.com/coff33ninja/System_Optimizer" style="text-decoration:none; color:inherit;">
-  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
-    <div style="margin:0 0 8px 0; font-size:0.8rem; color:#6EA8FF;">🟨 Current</div>
-    <h3 style="margin:0 0 10px 0; font-size:1rem;">System Optimizer</h3>
-    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>PowerShell</span><span>Active</span></div>
-  </div>
-</a>
-</div>
+
+<table>
+<tbody>
+<tr>
+<td align="center" width="250">
+<a href="https://github.com/coff33ninja/AIO"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-AIO.svg" width="230" alt="AIO"></a>
+<br>
+<sub><b>1st Gen</b> · Batch</sub>
+</td>
+<td align="center" width="40">→</td>
+<td align="center" width="250">
+<a href="https://github.com/coff33ninja/NexTool-Windows-Suite"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-NexTool-Windows-Suite.svg" width="230" alt="NexTool"></a>
+<br>
+<sub><b>2nd Gen</b> · Python</sub>
+</td>
+<td align="center" width="40">→</td>
+<td align="center" width="250">
+<a href="https://github.com/coff33ninja/System_optimizer"><img src="https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-System_optimizer.svg" width="230" alt="System Optimizer"></a>
+<br>
+<sub><b>Current</b> · PowerShell</sub>
+</td>
+</tr>
+</tbody>
+</table>
 
 **Quick start**
 ```powershell

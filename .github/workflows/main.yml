@@ -124,6 +124,7 @@ jobs:
           PAT_1: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_REPOSITORY_OWNER: ${{ github.repository_owner }}
           GITHUB_REPOSITORY: ${{ github.repository }}
+          EXTRA_REPOS: AIO,NexTool-Windows-Suite,System_optimizer
         run: node ./scripts/generate_top_pin_cards.mjs
 
       - name: Push to output branch
