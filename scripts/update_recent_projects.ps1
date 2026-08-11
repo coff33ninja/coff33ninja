@@ -12,8 +12,8 @@ if ($env:RECENT_PROJECTS_COUNT) { $Count = [int]$env:RECENT_PROJECTS_COUNT }
 if (-not $User) { $User = if ($env:GITHUB_REPOSITORY_OWNER) { $env:GITHUB_REPOSITORY_OWNER } else { "coff33ninja" } }
 
 $headers = @{
-    "User-Agent" = "$User-readme-bot"
-    "Accept" = "application/vnd.github+json"
+    "User-Agent"           = "$User-readme-bot"
+    "Accept"               = "application/vnd.github+json"
     "X-GitHub-Api-Version" = "2022-11-28"
 }
 if ($env:GITHUB_TOKEN) { $headers["Authorization"] = "Bearer $env:GITHUB_TOKEN" }
@@ -21,7 +21,8 @@ if ($env:GITHUB_TOKEN) { $headers["Authorization"] = "Bearer $env:GITHUB_TOKEN" 
 $uri = "https://api.github.com/users/$User/repos?per_page=100&sort=pushed&direction=desc"
 try {
     $repos = Invoke-RestMethod -Uri $uri -Headers $headers -Method Get
-} catch {
+}
+catch {
     Write-Host "Failed to fetch repositories. Leaving README unchanged."
     exit 0
 }
@@ -39,16 +40,14 @@ $readme = Get-Content -Raw -Path $ReadmePath
 
 $lines = New-Object System.Collections.Generic.List[string]
 $lines.Add("<!--START_SECTION:recent_projects-->")
-
 $lines.Add("")
-$lines.Add("| # | Project | Description | Language | Updated |")
-$lines.Add("|---|---------|-------------|----------|---------|")
+$lines.Add('<div align="center">')
+$lines.Add('<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin-top:1rem; margin-bottom:1rem;">')
 
-$i = 1
 foreach ($repo in $top) {
     $desc = $repo.description
     if ([string]::IsNullOrWhiteSpace($desc)) { $desc = "—" }
-    $desc = $desc.Replace('|', '\|').Replace('`', '\`')
+    $desc = $desc.Replace('&', '&amp;').Replace('<', '&lt;').Replace('>', '&gt;')
     $lang = $repo.language
     if ([string]::IsNullOrWhiteSpace($lang)) {
         try {
@@ -56,14 +55,25 @@ foreach ($repo in $top) {
             if ($langs.PSObject.Properties.Count -gt 0) {
                 $lang = ($langs.PSObject.Properties | Sort-Object Value -Descending | Select-Object -First 1).Name
             }
-        } catch { }
+        }
+        catch { }
     }
     if ([string]::IsNullOrWhiteSpace($lang)) { $lang = "—" }
     $updated = [DateTimeOffset]::Parse($repo.pushed_at).ToString("yyyy-MM-dd", [CultureInfo]::InvariantCulture)
-    $lines.Add("| $i | [$($repo.name)]($($repo.html_url)) | $desc | $lang | $updated |")
-    $i++
+    $repoName = $repo.name
+    $repoUrl = $repo.html_url
+
+    $lines.Add('<a href="' + $repoUrl + '" style="text-decoration:none; color:inherit;">')
+    $lines.Add('  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">')
+    $lines.Add('    <h3 style="margin:0 0 10px 0; font-size:1rem;">' + $repoName + '</h3>')
+    $lines.Add('    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">' + $desc + '</p>')
+    $lines.Add('    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>' + $lang + '</span><span>' + $updated + '</span></div>')
+    $lines.Add('  </div>')
+    $lines.Add('</a>')
 }
 
+$lines.Add('</div>')
+$lines.Add('</div>')
 $lines.Add("")
 $lines.Add("<!--END_SECTION:recent_projects-->")
 
@@ -71,8 +81,9 @@ $blockText = $lines -join "`r`n"
 $pattern = "(?s)<!--START_SECTION:recent_projects-->.*?<!--END_SECTION:recent_projects-->"
 
 if ($readme -match $pattern) {
-    $readme = [regex]::Replace($readme, $pattern, [System.Text.RegularExpressions.MatchEvaluator]{ $blockText })
-} else {
+    $readme = [regex]::Replace($readme, $pattern, [System.Text.RegularExpressions.MatchEvaluator] { $blockText })
+}
+else {
     $readme = $readme.TrimEnd() + "`r`n`r`n## Last 10 Repos`r`n`r`n" + $blockText + "`r`n"
 }
 

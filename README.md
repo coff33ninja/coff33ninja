@@ -43,18 +43,80 @@
 
 <!--START_SECTION:recent_projects-->
 
-| # | Project | Description | Language | Updated |
-|---|---------|-------------|----------|---------|
-| 1 | [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management) | Go | 2026-08-10 |
-| 2 | [DJ-TECH](https://github.com/coff33ninja/DJ-TECH) | Repair shop management system — job cards, inventory, invoicing, WhatsApp and email | TypeScript | 2026-08-10 |
-| 3 | [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions | Go | 2026-08-10 |
-| 4 | [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go | 2026-08-08 |
-| 5 | [My_Cam](https://github.com/coff33ninja/My_Cam) | — | C++ | 2026-08-08 |
-| 6 | [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | — | Python | 2026-08-04 |
-| 7 | [NO_OS](https://github.com/coff33ninja/NO_OS) | From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language. | C | 2026-08-01 |
-| 8 | [FMHY-DESKTOP](https://github.com/coff33ninja/FMHY-DESKTOP) | Dedicated ad-free desktop browser for fmhy.net | JavaScript | 2026-07-27 |
-| 9 | [ssheng](https://github.com/coff33ninja/ssheng) | Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom. | Go | 2026-07-26 |
-| 10 | [ai-skills-mcp](https://github.com/coff33ninja/ai-skills-mcp) | — | Python | 2026-07-25 |
+<div align="center">
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin-top:1rem; margin-bottom:1rem;">
+<a href="https://github.com/coff33ninja/go-mcp-computer-use" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">go-mcp-computer-use</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">MCP server for Windows desktop computer use (mouse, keyboard, screenshot, OCR, window management)</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Go</span><span>2026-08-10</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/DJ-TECH" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">DJ-TECH</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">Repair shop management system — job cards, inventory, invoicing, WhatsApp and email</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>TypeScript</span><span>2026-08-10</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/ai-memory" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">ai-memory</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">MCP server that gives AI assistants persistent memory, semantic search, skill recall, and self-evolution across sessions</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Go</span><span>2026-08-10</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/mcp-system-cleanup" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">mcp-system-cleanup</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">MCP server for Windows system cleanup and dev-environment management</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Go</span><span>2026-08-08</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/My_Cam" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">My_Cam</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">Wireless camera bridge - Android phone streams its camera to Windows as a virtual camera (Go/C++/Kotlin)</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>C++</span><span>2026-08-08</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/JARVIS_SYSTEM" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">JARVIS_SYSTEM</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">Iron-Man-style computer control: hand/face tracking (MediaPipe), transparent HUD, voice control, gesture file transfer</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Python</span><span>2026-08-04</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/NO_OS" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">NO_OS</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">From-scratch, AI-assisted, TempleOS-inspired OS for x86-64 with NOC, a HolyC-like language (bytecode VM) as its shell and application language.</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>C</span><span>2026-08-01</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/FMHY-DESKTOP" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">FMHY-DESKTOP</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">Dedicated ad-free desktop browser for fmhy.net</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>JavaScript</span><span>2026-07-27</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/ssheng" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">ssheng</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">Modern SSH infrastructure — single binary does both client and server. Connection pooling, VNC tunneling, in-browser VNC viewer, embedded web dashboard, SFTP file sync, multi-hop proxy, TOFU auth, session recording, JS plugin hooks. Cross-platform. Built because boredom.</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Go</span><span>2026-07-26</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/ai-skills-mcp" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">ai-skills-mcp</h3>
+    <p style="margin:0 0 12px 0; font-size:0.94rem; line-height:1.4; color:#8b949e;">MCP server exposing ai-skills as tools for AI assistants</p>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Python</span><span>2026-07-25</span></div>
+  </div>
+</a>
+</div>
+</div>
 
 <!--END_SECTION:recent_projects-->
 
@@ -87,20 +149,35 @@
 ## 🖥️ System Optimizer
 
 <div align="center">
-
-| Phase | Project | Stack |
-|:-----:|:-------:|:-----:|
-| 🟦 1st Gen | [AIO](https://github.com/coff33ninja/AIO) | Batch scripts |
-| 🟩 2nd Gen | [NexTool](https://github.com/coff33ninja/NexTool-Windows-Suite) | Python GUI |
-| 🟨 Current | [System Optimizer](https://github.com/coff33ninja/System_Optimizer) | PowerShell |
+<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px; margin-top:1rem; margin-bottom:1rem;">
+<a href="https://github.com/coff33ninja/AIO" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <div style="margin:0 0 8px 0; font-size:0.8rem; color:#6EA8FF;">🟦 1st Gen</div>
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">AIO</h3>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Batch scripts</span><span>Legacy</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/NexTool-Windows-Suite" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <div style="margin:0 0 8px 0; font-size:0.8rem; color:#6EA8FF;">🟩 2nd Gen</div>
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">NexTool</h3>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>Python GUI</span><span>Upgrade</span></div>
+  </div>
+</a>
+<a href="https://github.com/coff33ninja/System_Optimizer" style="text-decoration:none; color:inherit;">
+  <div style="border:1px solid #30363d; border-radius:16px; padding:18px; width:280px; min-height:150px; background-color:#0d1117; color:#c9d1d9;">
+    <div style="margin:0 0 8px 0; font-size:0.8rem; color:#6EA8FF;">🟨 Current</div>
+    <h3 style="margin:0 0 10px 0; font-size:1rem;">System Optimizer</h3>
+    <div style="display:flex; justify-content:space-between; gap:8px; font-size:0.84rem; color:#8b949e;"><span>PowerShell</span><span>Active</span></div>
+  </div>
+</a>
+</div>
 
 **Quick start**
----
 ```powershell
 irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_optimization.bat" -OutFile "run_optimization.bat"
 .\run_optimization.bat
 ```
----
 
 </div>
 
@@ -135,15 +212,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/coff33ninja](https://github.com/coff33ninja/coff33ninja)
-2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-3. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-5. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-7. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-9. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+2. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+4. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+6. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+8. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+9. 🚀 Pushed to [coff33ninja/mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup)
+10. 🚀 Pushed to [coff33ninja/ytzero](https://github.com/coff33ninja/ytzero)
 
 <!--END_SECTION:activity-->
 

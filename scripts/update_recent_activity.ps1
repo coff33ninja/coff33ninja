@@ -26,8 +26,12 @@ try {
     exit 0
 }
 
+$excludeRepo = ""
+if ($env:GITHUB_REPOSITORY) { $excludeRepo = $env:GITHUB_REPOSITORY }
+
 $filtered = $events | Where-Object {
-    $_.type -in @("PushEvent", "CreateEvent", "ReleaseEvent")
+    $_.type -in @("PushEvent", "CreateEvent", "ReleaseEvent") -and
+    ($excludeRepo -eq "" -or $_.repo.name -ne $excludeRepo)
 }
 
 $top = New-Object System.Collections.Generic.List[object]
