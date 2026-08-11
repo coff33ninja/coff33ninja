@@ -71,10 +71,10 @@
 
 <div align="center">
 
-[![ai-skills](https://github-stats-extended.vercel.app/api/pin/?username=coff33ninja&repo=ai-skills&theme=github_dark&hide_border=true)](https://github.com/coff33ninja/ai-skills)
-[![ai-memory](https://github-stats-extended.vercel.app/api/pin/?username=coff33ninja&repo=ai-memory&theme=github_dark&hide_border=true)](https://github.com/coff33ninja/ai-memory)
-[![go-mcp-computer-use](https://github-stats-extended.vercel.app/api/pin/?username=coff33ninja&repo=go-mcp-computer-use&theme=github_dark&hide_border=true)](https://github.com/coff33ninja/go-mcp-computer-use)
-[![mcp-system-cleanup](https://github-stats-extended.vercel.app/api/pin/?username=coff33ninja&repo=mcp-system-cleanup&theme=github_dark&hide_border=true)](https://github.com/coff33ninja/mcp-system-cleanup)
+[![ai-skills](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-skills.svg)](https://github.com/coff33ninja/ai-skills)
+[![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
+[![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
+[![mcp-system-cleanup](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-mcp-system-cleanup.svg)](https://github.com/coff33ninja/mcp-system-cleanup)
 
 </div>
 
@@ -115,8 +115,8 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 <div align="center">
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=coff33ninja&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/coff33ninja)
-[![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=github_dark&hide_border=true)](https://github.com/coff33ninja)
+[![GitHub stats](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/stats.svg)](https://github.com/coff33ninja)
+[![Top Languages](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/top-langs.svg)](https://github.com/coff33ninja)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=coff33ninja&style=flat-square&color=6EA8FF)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=coff33ninja&theme=github-dark-blue&hide_border=true)](https://github.com/coff33ninja)
@@ -133,7 +133,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 <br>
 
-[![Trophies](https://trophy.ryglcloud.net/?username=coff33ninja&theme=onedark&row=2&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/trophy.svg)](https://github.com/coff33ninja/github-profile-trophy)
 
 </div>
 

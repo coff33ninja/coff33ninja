@@ -18,9 +18,9 @@ on:
       - 'README.md'
 
 jobs:
-  generate-snake:
+  generate-profile-assets:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@v4
@@ -34,6 +34,72 @@ jobs:
             dist/github-contribution-grid-snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=github_dark&hide_border=true
+          path: dist/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&theme=github_dark&hide_border=true
+          path: dist/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - ai-skills
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ai-skills&theme=github_dark&hide_border=true
+          path: dist/pin-ai-skills.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - ai-memory
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=ai-memory&theme=github_dark&hide_border=true
+          path: dist/pin-ai-memory.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - go-mcp-computer-use
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=go-mcp-computer-use&theme=github_dark&hide_border=true
+          path: dist/pin-go-mcp-computer-use.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card - mcp-system-cleanup
+        uses: coff33ninja/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=${{ github.repository_owner }}&repo=mcp-system-cleanup&theme=github_dark&hide_border=true
+          path: dist/pin-mcp-system-cleanup.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v1.x
+
+      - name: Checkout trophy fork
+        uses: actions/checkout@v4
+        with:
+          repository: coff33ninja/github-profile-trophy
+          path: trophy
+
+      - name: Generate trophy
+        shell: bash
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_API: https://api.github.com/graphql
+        run: deno run --allow-net --allow-env --allow-read --allow-write ./scripts/render_trophy.ts ${{ github.repository_owner }} ./dist/trophy.svg onedark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
