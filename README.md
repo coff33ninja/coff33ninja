@@ -62,13 +62,6 @@
 
 > The toolchain behind my AI-assisted (Vibecode) workload.
 
-| Toolkit | Purpose | Stack |
-|---------|---------|:-----:|
-| [ai-skills](https://github.com/coff33ninja/ai-skills) | ⭐ Driving force of my Vibecode workload | Python |
-| [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server giving AI assistants persistent memory, semantic search, skill recall, and self-evolution | Go |
-| [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use — mouse, keyboard, screenshot, OCR, window management | Go |
-| [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go |
-
 <div align="center">
 
 [![ai-skills](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-skills.svg)](https://github.com/coff33ninja/ai-skills)
@@ -81,11 +74,6 @@
 ## 🤖 JARVIS System
 
 > Gesture + voice computer control — webcam tracking, a multi-monitor HUD, and an LLM agent. Local-first.
-
-| Project | Role | Stack |
-|---------|------|:-----:|
-| [JARVIS_SYSTEM](https://github.com/coff33ninja/JARVIS_SYSTEM) | Iron-Man-style control: hand/face tracking (MediaPipe), transparent HUD, voice, gesture "throw/catch" file transfer | Python |
-| [My_Cam](https://github.com/coff33ninja/My_Cam) | Wireless camera bridge — Android phone streams its camera to Windows as a virtual camera | Go / C++ / Kotlin |
 
 <div align="center">
 
