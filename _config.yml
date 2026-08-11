@@ -1,4 +1,6 @@
 title: coff33ninja
 description: Windows automation · AI experiments · VRM companions · OSINT tools
-theme: jekyll-theme-cayman
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-remote-theme
 show_downloads: false
