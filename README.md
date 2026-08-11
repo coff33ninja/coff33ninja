@@ -31,6 +31,17 @@
 
 <!--END_SECTION:recent_projects-->
 
+## 🧰 AI Toolkits
+
+> The toolchain behind my AI-assisted (Vibecode) workload.
+
+| Toolkit | Purpose | Stack |
+|---------|---------|:-----:|
+| [ai-skills](https://github.com/coff33ninja/ai-skills) | ⭐ Driving force of my Vibecode workload | Python |
+| [ai-memory](https://github.com/coff33ninja/ai-memory) | MCP server giving AI assistants persistent memory, semantic search, skill recall, and self-evolution | Go |
+| [go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use) | MCP server for Windows desktop computer use — mouse, keyboard, screenshot, OCR, window management | Go |
+| [mcp-system-cleanup](https://github.com/coff33ninja/mcp-system-cleanup) | MCP server for Windows system cleanup and dev-environment management | Go |
+
 ## 🖥️ System Optimizer
 
 <div align="center">
@@ -51,7 +62,26 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 **Why it matters** — One script, no dependencies, built for Windows 10/11. 29 optimization options with sensible defaults. The culmination of years of Windows automation work.
 
+## 📈 GitHub Stats
 
+<div align="center">
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=coff33ninja&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/coff33ninja)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=coff33ninja&layout=compact&theme=github_dark&hide_border=true)](https://github.com/coff33ninja)
+
+![Profile Views](https://komarev.com/ghpvc/?username=coff33ninja&style=flat-square&color=6EA8FF)
+
+**Tech stack**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4EAA25?style=for-the-badge&logo=windowsterminal&logoColor=white)
+
+</div>
 
 ## 📊 Recent Activity
 
@@ -82,6 +112,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 
 [![Discord](https://img.shields.io/badge/Discord-DRAGOHN%231282-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-coff33ninja-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coff33ninja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-DJ%20Kruger-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dj-kruger-5825aa228/)
 
 </div>
 

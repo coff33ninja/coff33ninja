@@ -48,9 +48,18 @@ $i = 1
 foreach ($repo in $top) {
     $desc = $repo.description
     if ([string]::IsNullOrWhiteSpace($desc)) { $desc = "—" }
+    $desc = $desc.Replace('|', '\|').Replace('`', '\`')
     $lang = $repo.language
+    if ([string]::IsNullOrWhiteSpace($lang)) {
+        try {
+            $langs = Invoke-RestMethod -Uri "https://api.github.com/repos/$User/$($repo.name)/languages" -Headers $headers -Method Get
+            if ($langs.PSObject.Properties.Count -gt 0) {
+                $lang = ($langs.PSObject.Properties | Sort-Object Value -Descending | Select-Object -First 1).Name
+            }
+        } catch { }
+    }
     if ([string]::IsNullOrWhiteSpace($lang)) { $lang = "—" }
-    $updated = [DateTime]::Parse($repo.pushed_at).ToString("yyyy-MM-dd")
+    $updated = [DateTimeOffset]::Parse($repo.pushed_at).ToString("yyyy-MM-dd", [CultureInfo]::InvariantCulture)
     $lines.Add("| $i | [$($repo.name)]($($repo.html_url)) | $desc | $lang | $updated |")
     $i++
 }

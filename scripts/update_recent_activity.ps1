@@ -30,7 +30,15 @@ $filtered = $events | Where-Object {
     $_.type -in @("PushEvent", "CreateEvent", "ReleaseEvent")
 }
 
-$top = $filtered | Select-Object -First $Count
+$top = New-Object System.Collections.Generic.List[object]
+$lastRepo = $null
+foreach ($ev in $filtered) {
+    if ($ev.repo.name -ne $lastRepo) {
+        $top.Add($ev)
+        $lastRepo = $ev.repo.name
+        if ($top.Count -ge $Count) { break }
+    }
+}
 $readme = Get-Content -Raw -Path $ReadmePath
 
 $lines = New-Object System.Collections.Generic.List[string]
