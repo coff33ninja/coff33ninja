@@ -44,6 +44,7 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![GIT_REPO_EXPLORER](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-GIT_REPO_EXPLORER.svg)](https://github.com/coff33ninja/GIT_REPO_EXPLORER)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![DJ-TECH](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-DJ-TECH.svg)](https://github.com/coff33ninja/DJ-TECH)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
@@ -53,7 +54,6 @@
 [![NO_OS](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-NO_OS.svg)](https://github.com/coff33ninja/NO_OS)
 [![FMHY-DESKTOP](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-FMHY-DESKTOP.svg)](https://github.com/coff33ninja/FMHY-DESKTOP)
 [![ssheng](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ssheng.svg)](https://github.com/coff33ninja/ssheng)
-[![ai-skills-mcp](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-skills-mcp.svg)](https://github.com/coff33ninja/ai-skills-mcp)
 
 </div>
 <!--END_SECTION:recent_projects-->
@@ -133,14 +133,15 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-2. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-4. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-6. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
-7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-8. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+1. 🚀 Pushed to [coff33ninja/GIT_REPO_EXPLORER](https://github.com/coff33ninja/GIT_REPO_EXPLORER)
+2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+3. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+5. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+7. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
+8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+9. 🚀 Pushed to [coff33ninja/DJ-TECH](https://github.com/coff33ninja/DJ-TECH)
 
 <!--END_SECTION:activity-->
 
