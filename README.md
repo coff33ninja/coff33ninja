@@ -44,10 +44,10 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![AI_ToolSet](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-AI_ToolSet.svg)](https://github.com/coff33ninja/AI_ToolSet)
 [![DJ-TECH](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-DJ-TECH.svg)](https://github.com/coff33ninja/DJ-TECH)
-[![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![JARVIS_SYSTEM](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JARVIS_SYSTEM.svg)](https://github.com/coff33ninja/JARVIS_SYSTEM)
 [![GIT_REPO_EXPLORER](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-GIT_REPO_EXPLORER.svg)](https://github.com/coff33ninja/GIT_REPO_EXPLORER)
 [![mcp-system-cleanup](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-mcp-system-cleanup.svg)](https://github.com/coff33ninja/mcp-system-cleanup)
