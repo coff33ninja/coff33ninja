@@ -44,6 +44,7 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![blender-mcp](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-blender-mcp.svg)](https://github.com/coff33ninja/blender-mcp)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![ai-skills](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-skills.svg)](https://github.com/coff33ninja/ai-skills)
@@ -53,7 +54,6 @@
 [![GIT_REPO_EXPLORER](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-GIT_REPO_EXPLORER.svg)](https://github.com/coff33ninja/GIT_REPO_EXPLORER)
 [![mcp-system-cleanup](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-mcp-system-cleanup.svg)](https://github.com/coff33ninja/mcp-system-cleanup)
 [![My_Cam](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-My_Cam.svg)](https://github.com/coff33ninja/My_Cam)
-[![NO_OS](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-NO_OS.svg)](https://github.com/coff33ninja/NO_OS)
 
 </div>
 <!--END_SECTION:recent_projects-->
@@ -133,15 +133,15 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-2. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-4. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-6. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
-7. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
+1. 🌱 Created branch [master](https://github.com/coff33ninja/blender-mcp/tree/master) in [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
+2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+3. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+5. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+7. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-9. 🌱 Created branch [feat/ort-thread-debugging-and-skill-design](https://github.com/coff33ninja/ai-skills/tree/feat/ort-thread-debugging-and-skill-design) in [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
+9. 🚀 Pushed to [coff33ninja/ai-skills](https://github.com/coff33ninja/ai-skills)
 10. 🚀 Pushed to [coff33ninja/ai-memory](https://github.com/coff33ninja/ai-memory)
 
 <!--END_SECTION:activity-->
