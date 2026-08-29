@@ -44,8 +44,8 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
-[![agent-switcher](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-agent-switcher.svg)](https://github.com/coff33ninja/agent-switcher)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
+[![agent-switcher](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-agent-switcher.svg)](https://github.com/coff33ninja/agent-switcher)
 [![blender-mcp](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-blender-mcp.svg)](https://github.com/coff33ninja/blender-mcp)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![ai-skills](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-skills.svg)](https://github.com/coff33ninja/ai-skills)
