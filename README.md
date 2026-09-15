@@ -44,6 +44,7 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![invoice-ninja-portable](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-invoice-ninja-portable.svg)](https://github.com/coff33ninja/invoice-ninja-portable)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![blender-mcp](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-blender-mcp.svg)](https://github.com/coff33ninja/blender-mcp)
@@ -53,7 +54,6 @@
 [![DJ-TECH](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-DJ-TECH.svg)](https://github.com/coff33ninja/DJ-TECH)
 [![JARVIS_SYSTEM](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JARVIS_SYSTEM.svg)](https://github.com/coff33ninja/JARVIS_SYSTEM)
 [![GIT_REPO_EXPLORER](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-GIT_REPO_EXPLORER.svg)](https://github.com/coff33ninja/GIT_REPO_EXPLORER)
-[![mcp-system-cleanup](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-mcp-system-cleanup.svg)](https://github.com/coff33ninja/mcp-system-cleanup)
 
 </div>
 <!--END_SECTION:recent_projects-->
@@ -133,15 +133,16 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
-2. 🌱 Created branch [main](https://github.com/coff33ninja/agent-switcher/tree/main) in [coff33ninja/agent-switcher](https://github.com/coff33ninja/agent-switcher)
-3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-4. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
-5. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-6. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
-7. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-8. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
-9. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+1. 🚀 Pushed to [coff33ninja/invoice-ninja-portable](https://github.com/coff33ninja/invoice-ninja-portable)
+2. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
+3. 🌱 Created branch [main](https://github.com/coff33ninja/agent-switcher/tree/main) in [coff33ninja/agent-switcher](https://github.com/coff33ninja/agent-switcher)
+4. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+5. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
+6. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+7. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
+8. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+9. 🚀 Pushed to [coff33ninja/blender-mcp](https://github.com/coff33ninja/blender-mcp)
+10. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 
 <!--END_SECTION:activity-->
 
