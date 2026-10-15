@@ -136,7 +136,6 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 1. 🚀 Pushed to [coff33ninja/distro-hunter](https://github.com/coff33ninja/distro-hunter)
 2. 🌱 Created branch [local/patch.bat](https://github.com/coff33ninja/ani-py/tree/local/patch.bat) in [coff33ninja/ani-py](https://github.com/coff33ninja/ani-py)
 3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-4. 🚀 Pushed to [coff33ninja/invoice-ninja-portable](https://github.com/coff33ninja/invoice-ninja-portable)
 
 <!--END_SECTION:activity-->
 
