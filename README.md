@@ -44,6 +44,7 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![distro-hunter](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-distro-hunter.svg)](https://github.com/coff33ninja/distro-hunter)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![invoice-ninja-portable](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-invoice-ninja-portable.svg)](https://github.com/coff33ninja/invoice-ninja-portable)
@@ -53,7 +54,6 @@
 [![AI_ToolSet](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-AI_ToolSet.svg)](https://github.com/coff33ninja/AI_ToolSet)
 [![DJ-TECH](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-DJ-TECH.svg)](https://github.com/coff33ninja/DJ-TECH)
 [![JARVIS_SYSTEM](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JARVIS_SYSTEM.svg)](https://github.com/coff33ninja/JARVIS_SYSTEM)
-[![GIT_REPO_EXPLORER](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-GIT_REPO_EXPLORER.svg)](https://github.com/coff33ninja/GIT_REPO_EXPLORER)
 
 </div>
 <!--END_SECTION:recent_projects-->
@@ -133,9 +133,10 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🌱 Created branch [local/patch.bat](https://github.com/coff33ninja/ani-py/tree/local/patch.bat) in [coff33ninja/ani-py](https://github.com/coff33ninja/ani-py)
-2. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
-3. 🚀 Pushed to [coff33ninja/invoice-ninja-portable](https://github.com/coff33ninja/invoice-ninja-portable)
+1. 🚀 Pushed to [coff33ninja/distro-hunter](https://github.com/coff33ninja/distro-hunter)
+2. 🌱 Created branch [local/patch.bat](https://github.com/coff33ninja/ani-py/tree/local/patch.bat) in [coff33ninja/ani-py](https://github.com/coff33ninja/ani-py)
+3. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
+4. 🚀 Pushed to [coff33ninja/invoice-ninja-portable](https://github.com/coff33ninja/invoice-ninja-portable)
 
 <!--END_SECTION:activity-->
 
