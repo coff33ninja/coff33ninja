@@ -44,9 +44,9 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![distro-hunter](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-distro-hunter.svg)](https://github.com/coff33ninja/distro-hunter)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
-[![distro-hunter](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-distro-hunter.svg)](https://github.com/coff33ninja/distro-hunter)
 [![invoice-ninja-portable](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-invoice-ninja-portable.svg)](https://github.com/coff33ninja/invoice-ninja-portable)
 [![blender-mcp](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-blender-mcp.svg)](https://github.com/coff33ninja/blender-mcp)
 [![agent-switcher](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-agent-switcher.svg)](https://github.com/coff33ninja/agent-switcher)
@@ -135,7 +135,6 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 <!--START_SECTION:activity-->
 1. 🚀 Pushed to [coff33ninja/go-mcp-computer-use](https://github.com/coff33ninja/go-mcp-computer-use)
 2. 🚀 Pushed to [coff33ninja/distro-hunter](https://github.com/coff33ninja/distro-hunter)
-3. 🌱 Created branch [local/patch.bat](https://github.com/coff33ninja/ani-py/tree/local/patch.bat) in [coff33ninja/ani-py](https://github.com/coff33ninja/ani-py)
 
 <!--END_SECTION:activity-->
 
