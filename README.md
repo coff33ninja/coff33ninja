@@ -44,6 +44,7 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
+[![JOBCARD](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JOBCARD.svg)](https://github.com/coff33ninja/JOBCARD)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
 [![distro-hunter](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-distro-hunter.svg)](https://github.com/coff33ninja/distro-hunter)
@@ -53,7 +54,6 @@
 [![ai-skills](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-skills.svg)](https://github.com/coff33ninja/ai-skills)
 [![AI_ToolSet](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-AI_ToolSet.svg)](https://github.com/coff33ninja/AI_ToolSet)
 [![DJ-TECH](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-DJ-TECH.svg)](https://github.com/coff33ninja/DJ-TECH)
-[![JARVIS_SYSTEM](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JARVIS_SYSTEM.svg)](https://github.com/coff33ninja/JARVIS_SYSTEM)
 
 </div>
 <!--END_SECTION:recent_projects-->
