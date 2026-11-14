@@ -133,7 +133,7 @@ irm "https://raw.githubusercontent.com/coff33ninja/System_Optimizer/main/run_opt
 ## 📊 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Pushed to [coff33ninja/JOBCARD](https://github.com/coff33ninja/JOBCARD)
+No recent activity.
 
 <!--END_SECTION:activity-->
 
