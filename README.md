@@ -44,9 +44,9 @@
 <!--START_SECTION:recent_projects-->
 <div align="center">
 
-[![JOBCARD](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JOBCARD.svg)](https://github.com/coff33ninja/JOBCARD)
 [![go-mcp-computer-use](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-go-mcp-computer-use.svg)](https://github.com/coff33ninja/go-mcp-computer-use)
 [![ai-memory](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-ai-memory.svg)](https://github.com/coff33ninja/ai-memory)
+[![JOBCARD](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-JOBCARD.svg)](https://github.com/coff33ninja/JOBCARD)
 [![distro-hunter](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-distro-hunter.svg)](https://github.com/coff33ninja/distro-hunter)
 [![invoice-ninja-portable](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-invoice-ninja-portable.svg)](https://github.com/coff33ninja/invoice-ninja-portable)
 [![blender-mcp](https://raw.githubusercontent.com/coff33ninja/coff33ninja/output/pin-blender-mcp.svg)](https://github.com/coff33ninja/blender-mcp)
